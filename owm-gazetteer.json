@@ -1,0 +1,6146 @@
+[
+  {
+    "city_id": "2353151",
+    "name": "Aba",
+    "country": "NG",
+    "state": "",
+    "latitude": 5.10658,
+    "longitude": 7.36667
+  },
+  {
+    "city_id": "2293538",
+    "name": "Abidjan",
+    "country": "CI",
+    "state": "",
+    "latitude": 5.30943,
+    "longitude": -4.01972
+  },
+  {
+    "city_id": "4669635",
+    "name": "Abilene",
+    "country": "US",
+    "state": "TX",
+    "latitude": 32.448738,
+    "longitude": -99.733139
+  },
+  {
+    "city_id": "2395914",
+    "name": "Abomey-Calavi",
+    "country": "BJ",
+    "state": "",
+    "latitude": 6.44852,
+    "longitude": 2.35566
+  },
+  {
+    "city_id": "292968",
+    "name": "Abu Dhabi",
+    "country": "AE",
+    "state": "",
+    "latitude": 24.466669,
+    "longitude": 54.366669
+  },
+  {
+    "city_id": "2352778",
+    "name": "Abuja",
+    "country": "NG",
+    "state": "",
+    "latitude": 9.05735,
+    "longitude": 7.48976
+  },
+  {
+    "city_id": "2306104",
+    "name": "Accra",
+    "country": "GH",
+    "state": "",
+    "latitude": 5.55602,
+    "longitude": -0.1969
+  },
+  {
+    "city_id": "325361",
+    "name": "Adana",
+    "country": "TR",
+    "state": "",
+    "latitude": 36.985001,
+    "longitude": 35.28809
+  },
+  {
+    "city_id": "344979",
+    "name": "Addis Ababa",
+    "country": "ET",
+    "state": "",
+    "latitude": 9.02497,
+    "longitude": 38.746891
+  },
+  {
+    "city_id": "2078025",
+    "name": "Adelaide",
+    "country": "AU",
+    "state": "",
+    "latitude": -34.933331,
+    "longitude": 138.600006
+  },
+  {
+    "city_id": "1279259",
+    "name": "Agra",
+    "country": "IN",
+    "state": "",
+    "latitude": 27.183332,
+    "longitude": 78.01667
+  },
+  {
+    "city_id": "4019233",
+    "name": "Aguascalientes",
+    "country": "MX",
+    "state": "",
+    "latitude": 21.883329,
+    "longitude": -102.300003
+  },
+  {
+    "city_id": "1279233",
+    "name": "Ahmedabad",
+    "country": "IN",
+    "state": "",
+    "latitude": 23.033333,
+    "longitude": 72.616669
+  },
+  {
+    "city_id": "144448",
+    "name": "Ahvaz",
+    "country": "IR",
+    "state": "",
+    "latitude": 31.320299,
+    "longitude": 48.6693
+  },
+  {
+    "city_id": "5145476",
+    "name": "Akron",
+    "country": "US",
+    "state": "OH",
+    "latitude": 41.08144,
+    "longitude": -81.519012
+  },
+  {
+    "city_id": "5106834",
+    "name": "Albany",
+    "country": "US",
+    "state": "NY",
+    "latitude": 42.65258,
+    "longitude": -73.756233
+  },
+  {
+    "city_id": "5454711",
+    "name": "Albuquerque",
+    "country": "US",
+    "state": "NM",
+    "latitude": 35.084492,
+    "longitude": -106.651138
+  },
+  {
+    "city_id": "170063",
+    "name": "Aleppo",
+    "country": "SY",
+    "state": "",
+    "latitude": 36.201241,
+    "longitude": 37.161171
+  },
+  {
+    "city_id": "361058",
+    "name": "Alexandria",
+    "country": "EG",
+    "state": "",
+    "latitude": 31.215639,
+    "longitude": 29.955271
+  },
+  {
+    "city_id": "4744091",
+    "name": "Alexandria",
+    "country": "US",
+    "state": "VA",
+    "latitude": 38.80484,
+    "longitude": -77.046921
+  },
+  {
+    "city_id": "2507480",
+    "name": "Algiers",
+    "country": "DZ",
+    "state": "",
+    "latitude": 36.752499,
+    "longitude": 3.04197
+  },
+  {
+    "city_id": "5178127",
+    "name": "Allentown",
+    "country": "US",
+    "state": "PA",
+    "latitude": 40.608429,
+    "longitude": -75.490181
+  },
+  {
+    "city_id": "1526384",
+    "name": "Almaty",
+    "country": "KZ",
+    "state": "",
+    "latitude": 43.25,
+    "longitude": 76.949997
+  },
+  {
+    "city_id": "5516233",
+    "name": "Amarillo",
+    "country": "US",
+    "state": "TX",
+    "latitude": 35.222,
+    "longitude": -101.831299
+  },
+  {
+    "city_id": "250441",
+    "name": "Amman",
+    "country": "JO",
+    "state": "",
+    "latitude": 31.955219,
+    "longitude": 35.94503
+  },
+  {
+    "city_id": "1278710",
+    "name": "Amritsar",
+    "country": "IN",
+    "state": "",
+    "latitude": 31.63306,
+    "longitude": 74.865562
+  },
+  {
+    "city_id": "2759794",
+    "name": "Amsterdam",
+    "country": "NL",
+    "state": "",
+    "latitude": 52.374031,
+    "longitude": 4.88969
+  },
+  {
+    "city_id": "5323810",
+    "name": "Anaheim",
+    "country": "US",
+    "state": "CA",
+    "latitude": 33.835289,
+    "longitude": -117.914497
+  },
+  {
+    "city_id": "5879400",
+    "name": "Anchorage",
+    "country": "US",
+    "state": "AK",
+    "latitude": 61.21806,
+    "longitude": -149.900284
+  },
+  {
+    "city_id": "3041563",
+    "name": "Andorra la Vella",
+    "country": "AD",
+    "state": "",
+    "latitude": 42.50779,
+    "longitude": 1.52109
+  },
+  {
+    "city_id": "323784",
+    "name": "Ankara",
+    "country": "TR",
+    "state": "",
+    "latitude": 39.916672,
+    "longitude": 32.833328
+  },
+  {
+    "city_id": "4984247",
+    "name": "Ann Arbor",
+    "country": "US",
+    "state": "MI",
+    "latitude": 42.277561,
+    "longitude": -83.740883
+  },
+  {
+    "city_id": "4347242",
+    "name": "Annapolis",
+    "country": "US",
+    "state": "MD",
+    "latitude": 38.978451,
+    "longitude": -76.49218
+  },
+  {
+    "city_id": "2038632",
+    "name": "Anshan",
+    "country": "CN",
+    "state": "",
+    "latitude": 41.123611,
+    "longitude": 122.989998
+  },
+  {
+    "city_id": "323776",
+    "name": "Antalya",
+    "country": "TR",
+    "state": "",
+    "latitude": 36.77409,
+    "longitude": 30.71777
+  },
+  {
+    "city_id": "1070940",
+    "name": "Antananarivo",
+    "country": "MG",
+    "state": "",
+    "latitude": -18.913679,
+    "longitude": 47.536129
+  },
+  {
+    "city_id": "1785294",
+    "name": "Anyang",
+    "country": "CN",
+    "state": "",
+    "latitude": 36.099442,
+    "longitude": 114.328888
+  },
+  {
+    "city_id": "4035413",
+    "name": "Apia",
+    "country": "WS",
+    "state": "",
+    "latitude": -13.83333,
+    "longitude": -171.766663
+  },
+  {
+    "city_id": "4671240",
+    "name": "Arlington",
+    "country": "US",
+    "state": "TX",
+    "latitude": 32.735691,
+    "longitude": -97.10807
+  },
+  {
+    "city_id": "5412199",
+    "name": "Arvada",
+    "country": "US",
+    "state": "CO",
+    "latitude": 39.802761,
+    "longitude": -105.087479
+  },
+  {
+    "city_id": "162183",
+    "name": "Ashgabat",
+    "country": "TM",
+    "state": "",
+    "latitude": 37.950001,
+    "longitude": 58.383331
+  },
+  {
+    "city_id": "343300",
+    "name": "Asmara",
+    "country": "ER",
+    "state": "",
+    "latitude": 15.33333,
+    "longitude": 38.933331
+  },
+  {
+    "city_id": "264371",
+    "name": "Athens",
+    "country": "GR",
+    "state": "",
+    "latitude": 37.97945,
+    "longitude": 23.716221
+  },
+  {
+    "city_id": "4180386",
+    "name": "Athens",
+    "country": "US",
+    "state": "GA",
+    "latitude": 33.960949,
+    "longitude": -83.377937
+  },
+  {
+    "city_id": "4180439",
+    "name": "Atlanta",
+    "country": "US",
+    "state": "GA",
+    "latitude": 33.749001,
+    "longitude": -84.387978
+  },
+  {
+    "city_id": "2193732",
+    "name": "Auckland",
+    "country": "NZ",
+    "state": "",
+    "latitude": -36.85582,
+    "longitude": 174.743042
+  },
+  {
+    "city_id": "4180531",
+    "name": "Augusta",
+    "country": "US",
+    "state": "GA",
+    "latitude": 33.47097,
+    "longitude": -81.974838
+  },
+  {
+    "city_id": "4957003",
+    "name": "Augusta",
+    "country": "US",
+    "state": "ME",
+    "latitude": 44.310619,
+    "longitude": -69.779488
+  },
+  {
+    "city_id": "1278149",
+    "name": "Aurangabad",
+    "country": "IN",
+    "state": "",
+    "latitude": 19.883329,
+    "longitude": 75.333328
+  },
+  {
+    "city_id": "5412347",
+    "name": "Aurora",
+    "country": "US",
+    "state": "CO",
+    "latitude": 39.729431,
+    "longitude": -104.831917
+  },
+  {
+    "city_id": "4883817",
+    "name": "Aurora",
+    "country": "US",
+    "state": "IL",
+    "latitude": 41.760578,
+    "longitude": -88.320068
+  },
+  {
+    "city_id": "4671654",
+    "name": "Austin",
+    "country": "US",
+    "state": "TX",
+    "latitude": 30.267151,
+    "longitude": -97.743057
+  },
+  {
+    "city_id": "98182",
+    "name": "Baghdad",
+    "country": "IQ",
+    "state": "",
+    "latitude": 33.34058,
+    "longitude": 44.400879
+  },
+  {
+    "city_id": "5325738",
+    "name": "Bakersfield",
+    "country": "US",
+    "state": "CA",
+    "latitude": 35.373291,
+    "longitude": -119.018707
+  },
+  {
+    "city_id": "587084",
+    "name": "Baku",
+    "country": "AZ",
+    "state": "",
+    "latitude": 40.37767,
+    "longitude": 49.89201
+  },
+  {
+    "city_id": "4347778",
+    "name": "Baltimore",
+    "country": "US",
+    "state": "MD",
+    "latitude": 39.290379,
+    "longitude": -76.61219
+  },
+  {
+    "city_id": "2460596",
+    "name": "Bamako",
+    "country": "ML",
+    "state": "",
+    "latitude": 12.65,
+    "longitude": -8.0
+  },
+  {
+    "city_id": "1624917",
+    "name": "Bandar Lampung",
+    "country": "ID",
+    "state": "",
+    "latitude": -5.42544,
+    "longitude": 105.258034
+  },
+  {
+    "city_id": "1820906",
+    "name": "Bandar Seri Begawan",
+    "country": "BN",
+    "state": "",
+    "latitude": 4.94029,
+    "longitude": 114.948059
+  },
+  {
+    "city_id": "1650357",
+    "name": "Bandung",
+    "country": "ID",
+    "state": "",
+    "latitude": -6.90389,
+    "longitude": 107.618607
+  },
+  {
+    "city_id": "1609348",
+    "name": "Bangkok",
+    "country": "TH",
+    "state": "",
+    "latitude": 13.87719,
+    "longitude": 100.71991
+  },
+  {
+    "city_id": "2389853",
+    "name": "Bangui",
+    "country": "CF",
+    "state": "",
+    "latitude": 4.36122,
+    "longitude": 18.55496
+  },
+  {
+    "city_id": "2413875",
+    "name": "Banjul",
+    "country": "GM",
+    "state": "",
+    "latitude": 13.45,
+    "longitude": -16.58333
+  },
+  {
+    "city_id": "1816971",
+    "name": "Baoding",
+    "country": "CN",
+    "state": "",
+    "latitude": 38.851109,
+    "longitude": 115.49028
+  },
+  {
+    "city_id": "1816945",
+    "name": "Baoji",
+    "country": "CN",
+    "state": "",
+    "latitude": 33.166672,
+    "longitude": 117.116669
+  },
+  {
+    "city_id": "2038432",
+    "name": "Baotou",
+    "country": "CN",
+    "state": "",
+    "latitude": 40.652222,
+    "longitude": 109.82222
+  },
+  {
+    "city_id": "3128760",
+    "name": "Barcelona",
+    "country": "ES",
+    "state": "",
+    "latitude": 41.38879,
+    "longitude": 2.15899
+  },
+  {
+    "city_id": "1277013",
+    "name": "Bareilly",
+    "country": "IN",
+    "state": "",
+    "latitude": 28.35,
+    "longitude": 79.416672
+  },
+  {
+    "city_id": "3648522",
+    "name": "Barquisimeto",
+    "country": "VE",
+    "state": "",
+    "latitude": 10.07389,
+    "longitude": -69.322777
+  },
+  {
+    "city_id": "3575551",
+    "name": "Basseterre",
+    "country": "KN",
+    "state": "",
+    "latitude": 17.29484,
+    "longitude": -62.726101
+  },
+  {
+    "city_id": "4315588",
+    "name": "Baton Rouge",
+    "country": "US",
+    "state": "LA",
+    "latitude": 30.45075,
+    "longitude": -91.154549
+  },
+  {
+    "city_id": "1816670",
+    "name": "Beijing",
+    "country": "CN",
+    "state": "",
+    "latitude": 39.907501,
+    "longitude": 116.397232
+  },
+  {
+    "city_id": "276781",
+    "name": "Beirut",
+    "country": "LB",
+    "state": "",
+    "latitude": 33.888939,
+    "longitude": 35.494419
+  },
+  {
+    "city_id": "1649378",
+    "name": "Bekasi",
+    "country": "ID",
+    "state": "",
+    "latitude": -6.2349,
+    "longitude": 106.989601
+  },
+  {
+    "city_id": "792680",
+    "name": "Belgrade",
+    "country": "RS",
+    "state": "",
+    "latitude": 44.804008,
+    "longitude": 20.46513
+  },
+  {
+    "city_id": "5786882",
+    "name": "Bellevue",
+    "country": "US",
+    "state": "WA",
+    "latitude": 47.610378,
+    "longitude": -122.200684
+  },
+  {
+    "city_id": "3582672",
+    "name": "Belmopan",
+    "country": "BZ",
+    "state": "",
+    "latitude": 17.25,
+    "longitude": -88.76667
+  },
+  {
+    "city_id": "3405814",
+    "name": "Belo Horizonte",
+    "country": "BR",
+    "state": "",
+    "latitude": -9.8,
+    "longitude": -36.333328
+  },
+  {
+    "city_id": "1277333",
+    "name": "Bengaluru",
+    "country": "IN",
+    "state": "",
+    "latitude": 12.97623,
+    "longitude": 77.603287
+  },
+  {
+    "city_id": "2347283",
+    "name": "Benin City",
+    "country": "NG",
+    "state": "",
+    "latitude": 6.33504,
+    "longitude": 5.62749
+  },
+  {
+    "city_id": "2038300",
+    "name": "Benxi",
+    "country": "CN",
+    "state": "",
+    "latitude": 41.288609,
+    "longitude": 123.764999
+  },
+  {
+    "city_id": "5327684",
+    "name": "Berkeley",
+    "country": "US",
+    "state": "CA",
+    "latitude": 37.87159,
+    "longitude": -122.272751
+  },
+  {
+    "city_id": "2950158",
+    "name": "Berlin",
+    "country": "DE",
+    "state": "",
+    "latitude": 54.033329,
+    "longitude": 10.45
+  },
+  {
+    "city_id": "2661552",
+    "name": "Bern",
+    "country": "CH",
+    "state": "",
+    "latitude": 46.94809,
+    "longitude": 7.44744
+  },
+  {
+    "city_id": "1275841",
+    "name": "Bhopal",
+    "country": "IN",
+    "state": "",
+    "latitude": 23.26667,
+    "longitude": 77.400002
+  },
+  {
+    "city_id": "5640350",
+    "name": "Billings",
+    "country": "US",
+    "state": "MT",
+    "latitude": 45.783291,
+    "longitude": -108.500687
+  },
+  {
+    "city_id": "1816336",
+    "name": "Binzhou",
+    "country": "CN",
+    "state": "",
+    "latitude": 37.366669,
+    "longitude": 118.01667
+  },
+  {
+    "city_id": "2655603",
+    "name": "Birmingham",
+    "country": "GB",
+    "state": "",
+    "latitude": 52.481419,
+    "longitude": -1.89983
+  },
+  {
+    "city_id": "4049979",
+    "name": "Birmingham",
+    "country": "US",
+    "state": "AL",
+    "latitude": 33.52066,
+    "longitude": -86.80249
+  },
+  {
+    "city_id": "1528675",
+    "name": "Bishkek",
+    "country": "KG",
+    "state": "",
+    "latitude": 42.869999,
+    "longitude": 74.589996
+  },
+  {
+    "city_id": "5688025",
+    "name": "Bismarck",
+    "country": "US",
+    "state": "ND",
+    "latitude": 46.808331,
+    "longitude": -100.783737
+  },
+  {
+    "city_id": "2374775",
+    "name": "Bissau",
+    "country": "GW",
+    "state": "",
+    "latitude": 11.86357,
+    "longitude": -15.59767
+  },
+  {
+    "city_id": "2362344",
+    "name": "Bobo-Dioulasso",
+    "country": "BF",
+    "state": "",
+    "latitude": 11.17715,
+    "longitude": -4.2979
+  },
+  {
+    "city_id": "1648473",
+    "name": "Bogor",
+    "country": "ID",
+    "state": "",
+    "latitude": -6.59444,
+    "longitude": 106.789169
+  },
+  {
+    "city_id": "3688689",
+    "name": "Bogot\u00e1",
+    "country": "CO",
+    "state": "",
+    "latitude": 4.60971,
+    "longitude": -74.081749
+  },
+  {
+    "city_id": "5586437",
+    "name": "Boise",
+    "country": "US",
+    "state": "ID",
+    "latitude": 43.613499,
+    "longitude": -116.203453
+  },
+  {
+    "city_id": "4930956",
+    "name": "Boston",
+    "country": "US",
+    "state": "MA",
+    "latitude": 42.358429,
+    "longitude": -71.059769
+  },
+  {
+    "city_id": "3410315",
+    "name": "Bras\u00edlia",
+    "country": "BR",
+    "state": "",
+    "latitude": -3.89472,
+    "longitude": -42.694172
+  },
+  {
+    "city_id": "3060972",
+    "name": "Bratislava",
+    "country": "SK",
+    "state": "",
+    "latitude": 48.148159,
+    "longitude": 17.106741
+  },
+  {
+    "city_id": "2260535",
+    "name": "Brazzaville",
+    "country": "CG",
+    "state": "",
+    "latitude": -4.26583,
+    "longitude": 15.28318
+  },
+  {
+    "city_id": "5282804",
+    "name": "Bridgeport",
+    "country": "US",
+    "state": "CT",
+    "latitude": 41.167042,
+    "longitude": -73.204826
+  },
+  {
+    "city_id": "3374036",
+    "name": "Bridgetown",
+    "country": "BB",
+    "state": "",
+    "latitude": 13.1,
+    "longitude": -59.616669
+  },
+  {
+    "city_id": "2174003",
+    "name": "Brisbane",
+    "country": "AU",
+    "state": "",
+    "latitude": -27.467939,
+    "longitude": 153.028091
+  },
+  {
+    "city_id": "4531405",
+    "name": "Broken Arrow",
+    "country": "US",
+    "state": "OK",
+    "latitude": 36.052601,
+    "longitude": -95.790817
+  },
+  {
+    "city_id": "4676740",
+    "name": "Brownsville",
+    "country": "US",
+    "state": "TX",
+    "latitude": 25.901751,
+    "longitude": -97.497482
+  },
+  {
+    "city_id": "2800866",
+    "name": "Brussels",
+    "country": "BE",
+    "state": "",
+    "latitude": 50.850449,
+    "longitude": 4.34878
+  },
+  {
+    "city_id": "3688465",
+    "name": "Bucaramanga",
+    "country": "CO",
+    "state": "",
+    "latitude": 7.12539,
+    "longitude": -73.119797
+  },
+  {
+    "city_id": "683506",
+    "name": "Bucharest",
+    "country": "RO",
+    "state": "",
+    "latitude": 44.432251,
+    "longitude": 26.10626
+  },
+  {
+    "city_id": "3054638",
+    "name": "Budapest",
+    "country": "HU",
+    "state": "",
+    "latitude": 47.5,
+    "longitude": 19.08333
+  },
+  {
+    "city_id": "3435907",
+    "name": "Buenos Aires",
+    "country": "AR",
+    "state": "",
+    "latitude": -36.0,
+    "longitude": -60.0
+  },
+  {
+    "city_id": "5110629",
+    "name": "Buffalo",
+    "country": "US",
+    "state": "NY",
+    "latitude": 42.886452,
+    "longitude": -78.878372
+  },
+  {
+    "city_id": "425378",
+    "name": "Bujumbura",
+    "country": "BI",
+    "state": "",
+    "latitude": -3.3822,
+    "longitude": 29.364401
+  },
+  {
+    "city_id": "217831",
+    "name": "Bukavu",
+    "country": "CD",
+    "state": "",
+    "latitude": -2.50833,
+    "longitude": 28.86083
+  },
+  {
+    "city_id": "750268",
+    "name": "Bursa",
+    "country": "TR",
+    "state": "",
+    "latitude": 40.166672,
+    "longitude": 29.08333
+  },
+  {
+    "city_id": "1838519",
+    "name": "Busan",
+    "country": "KR",
+    "state": "",
+    "latitude": 35.133331,
+    "longitude": 129.050003
+  },
+  {
+    "city_id": "360630",
+    "name": "Cairo",
+    "country": "EG",
+    "state": "",
+    "latitude": 30.06263,
+    "longitude": 31.24967
+  },
+  {
+    "city_id": "3687925",
+    "name": "Cali",
+    "country": "CO",
+    "state": "",
+    "latitude": 3.43722,
+    "longitude": -76.522499
+  },
+  {
+    "city_id": "4931972",
+    "name": "Cambridge",
+    "country": "US",
+    "state": "MA",
+    "latitude": 42.375099,
+    "longitude": -71.105614
+  },
+  {
+    "city_id": "3467865",
+    "name": "Campinas",
+    "country": "BR",
+    "state": "",
+    "latitude": -22.90556,
+    "longitude": -47.060829
+  },
+  {
+    "city_id": "1586203",
+    "name": "Can Tho",
+    "country": "VN",
+    "state": "",
+    "latitude": 10.03333,
+    "longitude": 105.783333
+  },
+  {
+    "city_id": "2172517",
+    "name": "Canberra",
+    "country": "AU",
+    "state": "",
+    "latitude": -35.283459,
+    "longitude": 149.128067
+  },
+  {
+    "city_id": "4149962",
+    "name": "Cape Coral",
+    "country": "US",
+    "state": "FL",
+    "latitude": 26.562851,
+    "longitude": -81.949532
+  },
+  {
+    "city_id": "3369157",
+    "name": "Cape Town",
+    "country": "ZA",
+    "state": "",
+    "latitude": -33.925838,
+    "longitude": 18.42322
+  },
+  {
+    "city_id": "3646738",
+    "name": "Caracas",
+    "country": "VE",
+    "state": "",
+    "latitude": 10.48801,
+    "longitude": -66.879189
+  },
+  {
+    "city_id": "4679195",
+    "name": "Carrollton",
+    "country": "US",
+    "state": "TX",
+    "latitude": 32.953732,
+    "longitude": -96.890282
+  },
+  {
+    "city_id": "5501344",
+    "name": "Carson City",
+    "country": "US",
+    "state": "NV",
+    "latitude": 39.163799,
+    "longitude": -119.767403
+  },
+  {
+    "city_id": "4459467",
+    "name": "Cary",
+    "country": "US",
+    "state": "NC",
+    "latitude": 35.791538,
+    "longitude": -78.78112
+  },
+  {
+    "city_id": "2553604",
+    "name": "Casablanca",
+    "country": "MA",
+    "state": "",
+    "latitude": 33.592781,
+    "longitude": -7.61916
+  },
+  {
+    "city_id": "3576810",
+    "name": "Castries",
+    "country": "LC",
+    "state": "",
+    "latitude": 13.98333,
+    "longitude": -60.966671
+  },
+  {
+    "city_id": "4850751",
+    "name": "Cedar Rapids",
+    "country": "US",
+    "state": "IA",
+    "latitude": 42.008331,
+    "longitude": -91.644073
+  },
+  {
+    "city_id": "1274746",
+    "name": "Chandigarh",
+    "country": "IN",
+    "state": "",
+    "latitude": 30.734301,
+    "longitude": 76.793297
+  },
+  {
+    "city_id": "5289282",
+    "name": "Chandler",
+    "country": "US",
+    "state": "AZ",
+    "latitude": 33.30616,
+    "longitude": -111.841248
+  },
+  {
+    "city_id": "1815771",
+    "name": "Changchun",
+    "country": "CN",
+    "state": "",
+    "latitude": 26.728571,
+    "longitude": 120.040138
+  },
+  {
+    "city_id": "1796989",
+    "name": "Changsha",
+    "country": "CN",
+    "state": "",
+    "latitude": 22.38265,
+    "longitude": 112.683533
+  },
+  {
+    "city_id": "1815456",
+    "name": "Changzhou",
+    "country": "CN",
+    "state": "",
+    "latitude": 31.783331,
+    "longitude": 119.966667
+  },
+  {
+    "city_id": "1815395",
+    "name": "Chaozhou",
+    "country": "CN",
+    "state": "",
+    "latitude": 23.665131,
+    "longitude": 116.637863
+  },
+  {
+    "city_id": "4574324",
+    "name": "Charleston",
+    "country": "US",
+    "state": "SC",
+    "latitude": 32.776569,
+    "longitude": -79.930923
+  },
+  {
+    "city_id": "4801859",
+    "name": "Charleston",
+    "country": "US",
+    "state": "WV",
+    "latitude": 38.349819,
+    "longitude": -81.632622
+  },
+  {
+    "city_id": "4460243",
+    "name": "Charlotte",
+    "country": "US",
+    "state": "NC",
+    "latitude": 35.227089,
+    "longitude": -80.843132
+  },
+  {
+    "city_id": "4612862",
+    "name": "Chattanooga",
+    "country": "US",
+    "state": "TN",
+    "latitude": 35.045631,
+    "longitude": -85.309677
+  },
+  {
+    "city_id": "1508291",
+    "name": "Chelyabinsk",
+    "country": "RU",
+    "state": "",
+    "latitude": 55.154442,
+    "longitude": 61.429722
+  },
+  {
+    "city_id": "1815286",
+    "name": "Chengdu",
+    "country": "CN",
+    "state": "",
+    "latitude": 30.66667,
+    "longitude": 104.066673
+  },
+  {
+    "city_id": "1264527",
+    "name": "Chennai",
+    "country": "IN",
+    "state": "",
+    "latitude": 13.08784,
+    "longitude": 80.278473
+  },
+  {
+    "city_id": "4752186",
+    "name": "Chesapeake",
+    "country": "US",
+    "state": "VA",
+    "latitude": 36.819038,
+    "longitude": -76.27494
+  },
+  {
+    "city_id": "1153671",
+    "name": "Chiang Mai",
+    "country": "TH",
+    "state": "",
+    "latitude": 18.79038,
+    "longitude": 98.98468
+  },
+  {
+    "city_id": "4887398",
+    "name": "Chicago",
+    "country": "US",
+    "state": "IL",
+    "latitude": 41.850029,
+    "longitude": -87.650047
+  },
+  {
+    "city_id": "1919558",
+    "name": "Chifeng",
+    "country": "CN",
+    "state": "",
+    "latitude": 23.817921,
+    "longitude": 116.53434
+  },
+  {
+    "city_id": "618426",
+    "name": "Chisinau",
+    "country": "MD",
+    "state": "",
+    "latitude": 47.005562,
+    "longitude": 28.8575
+  },
+  {
+    "city_id": "1205733",
+    "name": "Chittagong",
+    "country": "BD",
+    "state": "",
+    "latitude": 22.333059,
+    "longitude": 91.836388
+  },
+  {
+    "city_id": "1611110",
+    "name": "Chon Buri",
+    "country": "TH",
+    "state": "",
+    "latitude": 13.3622,
+    "longitude": 100.983452
+  },
+  {
+    "city_id": "1814906",
+    "name": "Chongqing",
+    "country": "CN",
+    "state": "",
+    "latitude": 29.56278,
+    "longitude": 106.55278
+  },
+  {
+    "city_id": "5336899",
+    "name": "Chula Vista",
+    "country": "US",
+    "state": "CA",
+    "latitude": 32.640049,
+    "longitude": -117.084198
+  },
+  {
+    "city_id": "4508722",
+    "name": "Cincinnati",
+    "country": "US",
+    "state": "OH",
+    "latitude": 39.161999,
+    "longitude": -84.456886
+  },
+  {
+    "city_id": "4613868",
+    "name": "Clarksville",
+    "country": "US",
+    "state": "TN",
+    "latitude": 36.52977,
+    "longitude": -87.359451
+  },
+  {
+    "city_id": "5150529",
+    "name": "Cleveland",
+    "country": "US",
+    "state": "OH",
+    "latitude": 41.4995,
+    "longitude": -81.695412
+  },
+  {
+    "city_id": "5338122",
+    "name": "Clovis",
+    "country": "US",
+    "state": "CA",
+    "latitude": 36.82523,
+    "longitude": -119.702919
+  },
+  {
+    "city_id": "3919968",
+    "name": "Cochabamba",
+    "country": "BO",
+    "state": "",
+    "latitude": -17.3895,
+    "longitude": -66.156799
+  },
+  {
+    "city_id": "1273865",
+    "name": "Coimbatore",
+    "country": "IN",
+    "state": "",
+    "latitude": 11.0,
+    "longitude": 76.966667
+  },
+  {
+    "city_id": "4682464",
+    "name": "College Station",
+    "country": "US",
+    "state": "TX",
+    "latitude": 30.627979,
+    "longitude": -96.334412
+  },
+  {
+    "city_id": "1248991",
+    "name": "Colombo",
+    "country": "LK",
+    "state": "",
+    "latitude": 6.93194,
+    "longitude": 79.847778
+  },
+  {
+    "city_id": "5417598",
+    "name": "Colorado Springs",
+    "country": "US",
+    "state": "CO",
+    "latitude": 38.833881,
+    "longitude": -104.821358
+  },
+  {
+    "city_id": "4575352",
+    "name": "Columbia",
+    "country": "US",
+    "state": "SC",
+    "latitude": 34.00071,
+    "longitude": -81.034813
+  },
+  {
+    "city_id": "4381982",
+    "name": "Columbia",
+    "country": "US",
+    "state": "MO",
+    "latitude": 38.95171,
+    "longitude": -92.334068
+  },
+  {
+    "city_id": "4509177",
+    "name": "Columbus",
+    "country": "US",
+    "state": "OH",
+    "latitude": 39.961182,
+    "longitude": -82.998787
+  },
+  {
+    "city_id": "4188985",
+    "name": "Columbus",
+    "country": "US",
+    "state": "GA",
+    "latitude": 32.460979,
+    "longitude": -84.987709
+  },
+  {
+    "city_id": "2422465",
+    "name": "Conakry",
+    "country": "GN",
+    "state": "",
+    "latitude": 9.53795,
+    "longitude": -13.67729
+  },
+  {
+    "city_id": "5339111",
+    "name": "Concord",
+    "country": "US",
+    "state": "CA",
+    "latitude": 37.977982,
+    "longitude": -122.031067
+  },
+  {
+    "city_id": "5084868",
+    "name": "Concord",
+    "country": "US",
+    "state": "NH",
+    "latitude": 43.208141,
+    "longitude": -71.537567
+  },
+  {
+    "city_id": "2618425",
+    "name": "Copenhagen",
+    "country": "DK",
+    "state": "",
+    "latitude": 55.675941,
+    "longitude": 12.56553
+  },
+  {
+    "city_id": "4151909",
+    "name": "Coral Springs",
+    "country": "US",
+    "state": "FL",
+    "latitude": 26.271191,
+    "longitude": -80.270599
+  },
+  {
+    "city_id": "5339631",
+    "name": "Corona",
+    "country": "US",
+    "state": "CA",
+    "latitude": 33.87529,
+    "longitude": -117.566437
+  },
+  {
+    "city_id": "4683416",
+    "name": "Corpus Christi",
+    "country": "US",
+    "state": "TX",
+    "latitude": 27.800579,
+    "longitude": -97.396378
+  },
+  {
+    "city_id": "3464975",
+    "name": "Curitiba",
+    "country": "BR",
+    "state": "",
+    "latitude": -25.42778,
+    "longitude": -49.27306
+  },
+  {
+    "city_id": "1835327",
+    "name": "Daegu",
+    "country": "KR",
+    "state": "",
+    "latitude": 35.799999,
+    "longitude": 128.550003
+  },
+  {
+    "city_id": "2253350",
+    "name": "Dakar",
+    "country": "SN",
+    "state": "",
+    "latitude": 14.75,
+    "longitude": -17.33333
+  },
+  {
+    "city_id": "1814087",
+    "name": "Dalian",
+    "country": "CN",
+    "state": "",
+    "latitude": 38.91222,
+    "longitude": 121.602219
+  },
+  {
+    "city_id": "4190598",
+    "name": "Dallas",
+    "country": "US",
+    "state": "GA",
+    "latitude": 33.92371,
+    "longitude": -84.840767
+  },
+  {
+    "city_id": "4684888",
+    "name": "Dallas",
+    "country": "US",
+    "state": "TX",
+    "latitude": 32.783058,
+    "longitude": -96.806671
+  },
+  {
+    "city_id": "170654",
+    "name": "Damascus",
+    "country": "SY",
+    "state": "",
+    "latitude": 33.510201,
+    "longitude": 36.291279
+  },
+  {
+    "city_id": "2037860",
+    "name": "Daqing",
+    "country": "CN",
+    "state": "",
+    "latitude": 46.583328,
+    "longitude": 125.0
+  },
+  {
+    "city_id": "160263",
+    "name": "Dar es Salaam",
+    "country": "TZ",
+    "state": "",
+    "latitude": -6.82349,
+    "longitude": 39.269508
+  },
+  {
+    "city_id": "1813451",
+    "name": "Datong",
+    "country": "CN",
+    "state": "",
+    "latitude": 32.620819,
+    "longitude": 117.063179
+  },
+  {
+    "city_id": "4509884",
+    "name": "Dayton",
+    "country": "US",
+    "state": "OH",
+    "latitude": 39.758949,
+    "longitude": -84.191612
+  },
+  {
+    "city_id": "1273294",
+    "name": "Delhi",
+    "country": "IN",
+    "state": "",
+    "latitude": 28.666668,
+    "longitude": 77.216667
+  },
+  {
+    "city_id": "4685907",
+    "name": "Denton",
+    "country": "US",
+    "state": "TX",
+    "latitude": 33.21484,
+    "longitude": -97.133072
+  },
+  {
+    "city_id": "5419384",
+    "name": "Denver",
+    "country": "US",
+    "state": "CO",
+    "latitude": 39.739151,
+    "longitude": -104.984703
+  },
+  {
+    "city_id": "1645518",
+    "name": "Depok",
+    "country": "ID",
+    "state": "",
+    "latitude": -7.7625,
+    "longitude": 110.431671
+  },
+  {
+    "city_id": "4853828",
+    "name": "Des Moines",
+    "country": "US",
+    "state": "IA",
+    "latitude": 41.60054,
+    "longitude": -93.609108
+  },
+  {
+    "city_id": "4990729",
+    "name": "Detroit",
+    "country": "US",
+    "state": "MI",
+    "latitude": 42.331429,
+    "longitude": -83.045753
+  },
+  {
+    "city_id": "1185241",
+    "name": "Dhaka",
+    "country": "BD",
+    "state": "",
+    "latitude": 23.7104,
+    "longitude": 90.40744
+  },
+  {
+    "city_id": "1645457",
+    "name": "Dili",
+    "country": "TL",
+    "state": "",
+    "latitude": -8.55861,
+    "longitude": 125.573608
+  },
+  {
+    "city_id": "223817",
+    "name": "Djibouti",
+    "country": "DJ",
+    "state": "",
+    "latitude": 11.58767,
+    "longitude": 43.14468
+  },
+  {
+    "city_id": "160196",
+    "name": "Dodoma",
+    "country": "TZ",
+    "state": "",
+    "latitude": -6.17221,
+    "longitude": 35.739471
+  },
+  {
+    "city_id": "290030",
+    "name": "Doha",
+    "country": "QA",
+    "state": "",
+    "latitude": 25.286667,
+    "longitude": 51.533333
+  },
+  {
+    "city_id": "1812531",
+    "name": "Dongguan",
+    "country": "CN",
+    "state": "",
+    "latitude": 30.01166,
+    "longitude": 120.814072
+  },
+  {
+    "city_id": "1913808",
+    "name": "Dongying",
+    "country": "CN",
+    "state": "",
+    "latitude": 20.05278,
+    "longitude": 110.413467
+  },
+  {
+    "city_id": "2232593",
+    "name": "Douala",
+    "country": "CM",
+    "state": "",
+    "latitude": 4.04827,
+    "longitude": 9.70428
+  },
+  {
+    "city_id": "4142290",
+    "name": "Dover",
+    "country": "US",
+    "state": "DE",
+    "latitude": 39.158169,
+    "longitude": -75.524368
+  },
+  {
+    "city_id": "292223",
+    "name": "Dubai",
+    "country": "AE",
+    "state": "",
+    "latitude": 25.258169,
+    "longitude": 55.304722
+  },
+  {
+    "city_id": "2964574",
+    "name": "Dublin",
+    "country": "IE",
+    "state": "",
+    "latitude": 53.34399,
+    "longitude": -6.26719
+  },
+  {
+    "city_id": "1007311",
+    "name": "Durban",
+    "country": "ZA",
+    "state": "",
+    "latitude": -29.857901,
+    "longitude": 31.0292
+  },
+  {
+    "city_id": "4464368",
+    "name": "Durham",
+    "country": "US",
+    "state": "NC",
+    "latitude": 35.99403,
+    "longitude": -78.898621
+  },
+  {
+    "city_id": "1221874",
+    "name": "Dushanbe",
+    "country": "TJ",
+    "state": "",
+    "latitude": 38.535751,
+    "longitude": 68.779053
+  },
+  {
+    "city_id": "5946768",
+    "name": "Edmonton",
+    "country": "CA",
+    "state": "",
+    "latitude": 53.55014,
+    "longitude": -113.468712
+  },
+  {
+    "city_id": "5520993",
+    "name": "El Paso",
+    "country": "US",
+    "state": "TX",
+    "latitude": 31.75872,
+    "longitude": -106.486931
+  },
+  {
+    "city_id": "5097598",
+    "name": "Elizabeth",
+    "country": "US",
+    "state": "NJ",
+    "latitude": 40.66399,
+    "longitude": -74.210701
+  },
+  {
+    "city_id": "5346111",
+    "name": "Elk Grove",
+    "country": "US",
+    "state": "CA",
+    "latitude": 38.408798,
+    "longitude": -121.37162
+  },
+  {
+    "city_id": "5346827",
+    "name": "Escondido",
+    "country": "US",
+    "state": "CA",
+    "latitude": 33.119209,
+    "longitude": -117.086418
+  },
+  {
+    "city_id": "5725846",
+    "name": "Eugene",
+    "country": "US",
+    "state": "OR",
+    "latitude": 44.052071,
+    "longitude": -123.086746
+  },
+  {
+    "city_id": "5347335",
+    "name": "Fairfield",
+    "country": "US",
+    "state": "CA",
+    "latitude": 38.249359,
+    "longitude": -122.03997
+  },
+  {
+    "city_id": "1179400",
+    "name": "Faisalabad",
+    "country": "PK",
+    "state": "",
+    "latitude": 31.41667,
+    "longitude": 73.083328
+  },
+  {
+    "city_id": "5059163",
+    "name": "Fargo",
+    "country": "US",
+    "state": "ND",
+    "latitude": 46.87719,
+    "longitude": -96.789803
+  },
+  {
+    "city_id": "4466033",
+    "name": "Fayetteville",
+    "country": "US",
+    "state": "NC",
+    "latitude": 35.052662,
+    "longitude": -78.878357
+  },
+  {
+    "city_id": "5349755",
+    "name": "Fontana",
+    "country": "US",
+    "state": "CA",
+    "latitude": 34.092232,
+    "longitude": -117.435051
+  },
+  {
+    "city_id": "5577147",
+    "name": "Fort Collins",
+    "country": "US",
+    "state": "CO",
+    "latitude": 40.585258,
+    "longitude": -105.084419
+  },
+  {
+    "city_id": "4155966",
+    "name": "Fort Lauderdale",
+    "country": "US",
+    "state": "FL",
+    "latitude": 26.122311,
+    "longitude": -80.143379
+  },
+  {
+    "city_id": "4920423",
+    "name": "Fort Wayne",
+    "country": "US",
+    "state": "IN",
+    "latitude": 41.1306,
+    "longitude": -85.12886
+  },
+  {
+    "city_id": "4691930",
+    "name": "Fort Worth",
+    "country": "US",
+    "state": "TX",
+    "latitude": 32.72541,
+    "longitude": -97.320847
+  },
+  {
+    "city_id": "3399415",
+    "name": "Fortaleza",
+    "country": "BR",
+    "state": "",
+    "latitude": -3.71722,
+    "longitude": -38.54306
+  },
+  {
+    "city_id": "1811103",
+    "name": "Foshan",
+    "country": "CN",
+    "state": "",
+    "latitude": 23.02677,
+    "longitude": 113.131477
+  },
+  {
+    "city_id": "4292188",
+    "name": "Frankfort",
+    "country": "US",
+    "state": "KY",
+    "latitude": 38.200909,
+    "longitude": -84.873283
+  },
+  {
+    "city_id": "2408770",
+    "name": "Freetown",
+    "country": "SL",
+    "state": "",
+    "latitude": 8.43194,
+    "longitude": -13.28972
+  },
+  {
+    "city_id": "5350734",
+    "name": "Fremont",
+    "country": "US",
+    "state": "CA",
+    "latitude": 37.548271,
+    "longitude": -121.988571
+  },
+  {
+    "city_id": "5350937",
+    "name": "Fresno",
+    "country": "US",
+    "state": "CA",
+    "latitude": 36.74773,
+    "longitude": -119.772369
+  },
+  {
+    "city_id": "4692559",
+    "name": "Frisco",
+    "country": "US",
+    "state": "TX",
+    "latitude": 33.150669,
+    "longitude": -96.823608
+  },
+  {
+    "city_id": "1863967",
+    "name": "Fukuoka",
+    "country": "JP",
+    "state": "",
+    "latitude": 33.606392,
+    "longitude": 130.41806
+  },
+  {
+    "city_id": "5351247",
+    "name": "Fullerton",
+    "country": "US",
+    "state": "CA",
+    "latitude": 33.870289,
+    "longitude": -117.925339
+  },
+  {
+    "city_id": "2110384",
+    "name": "Funafuti",
+    "country": "TV",
+    "state": "",
+    "latitude": -8.51719,
+    "longitude": 179.130539
+  },
+  {
+    "city_id": "1810821",
+    "name": "Fuzhou",
+    "country": "CN",
+    "state": "",
+    "latitude": 26.06139,
+    "longitude": 119.306107
+  },
+  {
+    "city_id": "933773",
+    "name": "Gaborone",
+    "country": "BW",
+    "state": "",
+    "latitude": -24.65451,
+    "longitude": 25.90859
+  },
+  {
+    "city_id": "4156404",
+    "name": "Gainesville",
+    "country": "US",
+    "state": "FL",
+    "latitude": 29.65163,
+    "longitude": -82.324829
+  },
+  {
+    "city_id": "1810637",
+    "name": "Ganzhou",
+    "country": "CN",
+    "state": "",
+    "latitude": 28.81842,
+    "longitude": 115.432716
+  },
+  {
+    "city_id": "5351515",
+    "name": "Garden Grove",
+    "country": "US",
+    "state": "CA",
+    "latitude": 33.773911,
+    "longitude": -117.941452
+  },
+  {
+    "city_id": "4693003",
+    "name": "Garland",
+    "country": "US",
+    "state": "TX",
+    "latitude": 32.912621,
+    "longitude": -96.638878
+  },
+  {
+    "city_id": "314829",
+    "name": "Gaziantep",
+    "country": "TR",
+    "state": "",
+    "latitude": 37.083328,
+    "longitude": 37.333328
+  },
+  {
+    "city_id": "3378644",
+    "name": "Georgetown",
+    "country": "GY",
+    "state": "",
+    "latitude": 6.80448,
+    "longitude": -58.15527
+  },
+  {
+    "city_id": "5295903",
+    "name": "Gilbert",
+    "country": "US",
+    "state": "AZ",
+    "latitude": 33.352829,
+    "longitude": -111.789032
+  },
+  {
+    "city_id": "426272",
+    "name": "Gitega",
+    "country": "BI",
+    "state": "",
+    "latitude": -3.4264,
+    "longitude": 29.930799
+  },
+  {
+    "city_id": "2648579",
+    "name": "Glasgow",
+    "country": "GB",
+    "state": "",
+    "latitude": 55.86515,
+    "longitude": -4.25763
+  },
+  {
+    "city_id": "5295985",
+    "name": "Glendale",
+    "country": "US",
+    "state": "AZ",
+    "latitude": 33.538651,
+    "longitude": -112.185989
+  },
+  {
+    "city_id": "5352423",
+    "name": "Glendale",
+    "country": "US",
+    "state": "CA",
+    "latitude": 34.142509,
+    "longitude": -118.255081
+  },
+  {
+    "city_id": "3462377",
+    "name": "Goi\u00e2nia",
+    "country": "BR",
+    "state": "",
+    "latitude": -16.67861,
+    "longitude": -49.253891
+  },
+  {
+    "city_id": "4694482",
+    "name": "Grand Prairie",
+    "country": "US",
+    "state": "TX",
+    "latitude": 32.74596,
+    "longitude": -96.99778
+  },
+  {
+    "city_id": "4994358",
+    "name": "Grand Rapids",
+    "country": "US",
+    "state": "MI",
+    "latitude": 42.96336,
+    "longitude": -85.668091
+  },
+  {
+    "city_id": "4469146",
+    "name": "Greensboro",
+    "country": "US",
+    "state": "NC",
+    "latitude": 36.072639,
+    "longitude": -79.791977
+  },
+  {
+    "city_id": "4005539",
+    "name": "Guadalajara",
+    "country": "MX",
+    "state": "",
+    "latitude": 20.66667,
+    "longitude": -103.333328
+  },
+  {
+    "city_id": "1809858",
+    "name": "Guangzhou",
+    "country": "CN",
+    "state": "",
+    "latitude": 23.116671,
+    "longitude": 113.25
+  },
+  {
+    "city_id": "3598132",
+    "name": "Guatemala City",
+    "country": "GT",
+    "state": "",
+    "latitude": 14.64072,
+    "longitude": -90.513268
+  },
+  {
+    "city_id": "3657509",
+    "name": "Guayaquil",
+    "country": "EC",
+    "state": "",
+    "latitude": -2.16667,
+    "longitude": -79.900002
+  },
+  {
+    "city_id": "1809498",
+    "name": "Guilin",
+    "country": "CN",
+    "state": "",
+    "latitude": 25.28194,
+    "longitude": 110.286392
+  },
+  {
+    "city_id": "1809461",
+    "name": "Guiyang",
+    "country": "CN",
+    "state": "",
+    "latitude": 26.58333,
+    "longitude": 106.716667
+  },
+  {
+    "city_id": "1177662",
+    "name": "Gujranwala",
+    "country": "PK",
+    "state": "",
+    "latitude": 32.161671,
+    "longitude": 74.188309
+  },
+  {
+    "city_id": "1271476",
+    "name": "Guwahati",
+    "country": "IN",
+    "state": "",
+    "latitude": 26.186171,
+    "longitude": 91.750954
+  },
+  {
+    "city_id": "1270583",
+    "name": "Gwalior",
+    "country": "IN",
+    "state": "",
+    "latitude": 26.22361,
+    "longitude": 78.179169
+  },
+  {
+    "city_id": "1841808",
+    "name": "Gwangju",
+    "country": "KR",
+    "state": "",
+    "latitude": 35.166672,
+    "longitude": 126.916672
+  },
+  {
+    "city_id": "1581130",
+    "name": "Ha Noi",
+    "country": "VN",
+    "state": "",
+    "latitude": 21.0245,
+    "longitude": 105.841171
+  },
+  {
+    "city_id": "294800",
+    "name": "Haifa",
+    "country": "IL",
+    "state": "",
+    "latitude": 32.583328,
+    "longitude": 35.0
+  },
+  {
+    "city_id": "1809074",
+    "name": "Haikou",
+    "country": "CN",
+    "state": "",
+    "latitude": 29.106819,
+    "longitude": 117.807358
+  },
+  {
+    "city_id": "1581298",
+    "name": "Haiphong",
+    "country": "VN",
+    "state": "",
+    "latitude": 20.85611,
+    "longitude": 106.68222
+  },
+  {
+    "city_id": "2911298",
+    "name": "Hamburg",
+    "country": "DE",
+    "state": "",
+    "latitude": 53.549999,
+    "longitude": 10.0
+  },
+  {
+    "city_id": "4762894",
+    "name": "Hampton",
+    "country": "US",
+    "state": "VA",
+    "latitude": 37.029869,
+    "longitude": -76.345222
+  },
+  {
+    "city_id": "1808963",
+    "name": "Handan",
+    "country": "CN",
+    "state": "",
+    "latitude": 36.600559,
+    "longitude": 114.467781
+  },
+  {
+    "city_id": "1808926",
+    "name": "Hangzhou",
+    "country": "CN",
+    "state": "",
+    "latitude": 30.29365,
+    "longitude": 120.161423
+  },
+  {
+    "city_id": "890299",
+    "name": "Harare",
+    "country": "ZW",
+    "state": "",
+    "latitude": -17.82935,
+    "longitude": 31.05389
+  },
+  {
+    "city_id": "2037013",
+    "name": "Harbin",
+    "country": "CN",
+    "state": "",
+    "latitude": 45.75,
+    "longitude": 126.650002
+  },
+  {
+    "city_id": "57289",
+    "name": "Hargeysa",
+    "country": "SO",
+    "state": "",
+    "latitude": 9.56,
+    "longitude": 44.064999
+  },
+  {
+    "city_id": "5192726",
+    "name": "Harrisburg",
+    "country": "US",
+    "state": "PA",
+    "latitude": 40.273701,
+    "longitude": -76.884422
+  },
+  {
+    "city_id": "4835797",
+    "name": "Hartford",
+    "country": "US",
+    "state": "CT",
+    "latitude": 41.76371,
+    "longitude": -72.685089
+  },
+  {
+    "city_id": "3553478",
+    "name": "Havana",
+    "country": "CU",
+    "state": "",
+    "latitude": 23.13302,
+    "longitude": -82.383041
+  },
+  {
+    "city_id": "5355933",
+    "name": "Hayward",
+    "country": "US",
+    "state": "CA",
+    "latitude": 37.668819,
+    "longitude": -122.080803
+  },
+  {
+    "city_id": "1808722",
+    "name": "Hefei",
+    "country": "CN",
+    "state": "",
+    "latitude": 31.86389,
+    "longitude": 117.28083
+  },
+  {
+    "city_id": "5656882",
+    "name": "Helena",
+    "country": "US",
+    "state": "MT",
+    "latitude": 46.592709,
+    "longitude": -112.03611
+  },
+  {
+    "city_id": "658225",
+    "name": "Helsinki",
+    "country": "FI",
+    "state": "",
+    "latitude": 60.16952,
+    "longitude": 24.93545
+  },
+  {
+    "city_id": "5505411",
+    "name": "Henderson",
+    "country": "US",
+    "state": "NV",
+    "latitude": 36.0397,
+    "longitude": -114.981941
+  },
+  {
+    "city_id": "1808370",
+    "name": "Hengyang",
+    "country": "CN",
+    "state": "",
+    "latitude": 26.88806,
+    "longitude": 112.614998
+  },
+  {
+    "city_id": "4158476",
+    "name": "Hialeah",
+    "country": "US",
+    "state": "FL",
+    "latitude": 25.857599,
+    "longitude": -80.278107
+  },
+  {
+    "city_id": "1862415",
+    "name": "Hiroshima",
+    "country": "JP",
+    "state": "",
+    "latitude": 34.396271,
+    "longitude": 132.459366
+  },
+  {
+    "city_id": "2036892",
+    "name": "Hohhot",
+    "country": "CN",
+    "state": "",
+    "latitude": 40.810558,
+    "longitude": 111.652222
+  },
+  {
+    "city_id": "4158928",
+    "name": "Hollywood",
+    "country": "US",
+    "state": "FL",
+    "latitude": 26.0112,
+    "longitude": -80.14949
+  },
+  {
+    "city_id": "169577",
+    "name": "Homs",
+    "country": "SY",
+    "state": "",
+    "latitude": 34.726822,
+    "longitude": 36.723389
+  },
+  {
+    "city_id": "1819729",
+    "name": "Hong Kong",
+    "country": "HK",
+    "state": "",
+    "latitude": 22.285521,
+    "longitude": 114.157692
+  },
+  {
+    "city_id": "2108502",
+    "name": "Honiara",
+    "country": "SB",
+    "state": "",
+    "latitude": -9.43333,
+    "longitude": 159.949997
+  },
+  {
+    "city_id": "5856195",
+    "name": "Honolulu",
+    "country": "US",
+    "state": "HI",
+    "latitude": 21.30694,
+    "longitude": -157.858337
+  },
+  {
+    "city_id": "4391354",
+    "name": "Houston",
+    "country": "US",
+    "state": "MO",
+    "latitude": 37.32616,
+    "longitude": -91.955994
+  },
+  {
+    "city_id": "4699066",
+    "name": "Houston",
+    "country": "US",
+    "state": "TX",
+    "latitude": 29.763281,
+    "longitude": -95.363274
+  },
+  {
+    "city_id": "1807700",
+    "name": "Huaibei",
+    "country": "CN",
+    "state": "",
+    "latitude": 33.974442,
+    "longitude": 116.791672
+  },
+  {
+    "city_id": "1806776",
+    "name": "Huizhou",
+    "country": "CN",
+    "state": "",
+    "latitude": 23.08333,
+    "longitude": 114.400002
+  },
+  {
+    "city_id": "5358705",
+    "name": "Huntington Beach",
+    "country": "US",
+    "state": "CA",
+    "latitude": 33.660301,
+    "longitude": -117.999229
+  },
+  {
+    "city_id": "4068590",
+    "name": "Huntsville",
+    "country": "US",
+    "state": "AL",
+    "latitude": 34.73037,
+    "longitude": -86.586098
+  },
+  {
+    "city_id": "1269843",
+    "name": "Hyderabad",
+    "country": "IN",
+    "state": "",
+    "latitude": 17.37528,
+    "longitude": 78.474442
+  },
+  {
+    "city_id": "1176734",
+    "name": "Hyderabad",
+    "country": "PK",
+    "state": "",
+    "latitude": 25.39242,
+    "longitude": 68.373657
+  },
+  {
+    "city_id": "2339354",
+    "name": "Ibadan",
+    "country": "NG",
+    "state": "",
+    "latitude": 7.38778,
+    "longitude": 3.89639
+  },
+  {
+    "city_id": "1843561",
+    "name": "Incheon",
+    "country": "KR",
+    "state": "",
+    "latitude": 37.450001,
+    "longitude": 126.416107
+  },
+  {
+    "city_id": "4391812",
+    "name": "Independence",
+    "country": "US",
+    "state": "MO",
+    "latitude": 39.091122,
+    "longitude": -94.415512
+  },
+  {
+    "city_id": "4259418",
+    "name": "Indianapolis",
+    "country": "US",
+    "state": "IN",
+    "latitude": 39.768379,
+    "longitude": -86.158043
+  },
+  {
+    "city_id": "1269743",
+    "name": "Indore",
+    "country": "IN",
+    "state": "",
+    "latitude": 22.71792,
+    "longitude": 75.833298
+  },
+  {
+    "city_id": "5359777",
+    "name": "Irvine",
+    "country": "US",
+    "state": "CA",
+    "latitude": 33.66946,
+    "longitude": -117.823112
+  },
+  {
+    "city_id": "4700168",
+    "name": "Irving",
+    "country": "US",
+    "state": "TX",
+    "latitude": 32.814018,
+    "longitude": -96.948891
+  },
+  {
+    "city_id": "1162015",
+    "name": "Islamabad",
+    "country": "PK",
+    "state": "",
+    "latitude": 33.7104,
+    "longitude": 73.13382
+  },
+  {
+    "city_id": "745044",
+    "name": "Istanbul",
+    "country": "TR",
+    "state": "",
+    "latitude": 41.01384,
+    "longitude": 28.949659
+  },
+  {
+    "city_id": "1269633",
+    "name": "Jabalpur",
+    "country": "IN",
+    "state": "",
+    "latitude": 23.166969,
+    "longitude": 79.950058
+  },
+  {
+    "city_id": "4431410",
+    "name": "Jackson",
+    "country": "US",
+    "state": "MS",
+    "latitude": 32.298759,
+    "longitude": -90.184807
+  },
+  {
+    "city_id": "4160021",
+    "name": "Jacksonville",
+    "country": "US",
+    "state": "FL",
+    "latitude": 30.33218,
+    "longitude": -81.655647
+  },
+  {
+    "city_id": "1269515",
+    "name": "Jaipur",
+    "country": "IN",
+    "state": "",
+    "latitude": 26.916668,
+    "longitude": 75.816666
+  },
+  {
+    "city_id": "1642911",
+    "name": "Jakarta",
+    "country": "ID",
+    "state": "",
+    "latitude": -6.21462,
+    "longitude": 106.845131
+  },
+  {
+    "city_id": "1269300",
+    "name": "Jamshedpur",
+    "country": "IN",
+    "state": "",
+    "latitude": 22.799999,
+    "longitude": 86.183327
+  },
+  {
+    "city_id": "105343",
+    "name": "Jeddah",
+    "country": "SA",
+    "state": "",
+    "latitude": 21.516939,
+    "longitude": 39.21917
+  },
+  {
+    "city_id": "4392388",
+    "name": "Jefferson City",
+    "country": "US",
+    "state": "MO",
+    "latitude": 38.576698,
+    "longitude": -92.173523
+  },
+  {
+    "city_id": "5099836",
+    "name": "Jersey City",
+    "country": "US",
+    "state": "NJ",
+    "latitude": 40.728161,
+    "longitude": -74.077637
+  },
+  {
+    "city_id": "281184",
+    "name": "Jerusalem",
+    "country": "IL",
+    "state": "",
+    "latitude": 31.769039,
+    "longitude": 35.216331
+  },
+  {
+    "city_id": "1806299",
+    "name": "Jiangmen",
+    "country": "CN",
+    "state": "",
+    "latitude": 22.58333,
+    "longitude": 113.083328
+  },
+  {
+    "city_id": "1805953",
+    "name": "Jiaxing",
+    "country": "CN",
+    "state": "",
+    "latitude": 30.752199,
+    "longitude": 120.75
+  },
+  {
+    "city_id": "1797121",
+    "name": "Jieyang",
+    "country": "CN",
+    "state": "",
+    "latitude": 23.52886,
+    "longitude": 116.364159
+  },
+  {
+    "city_id": "2036502",
+    "name": "Jilin",
+    "country": "CN",
+    "state": "",
+    "latitude": 43.85083,
+    "longitude": 126.56028
+  },
+  {
+    "city_id": "1280945",
+    "name": "Jinhua",
+    "country": "CN",
+    "state": "",
+    "latitude": 26.538,
+    "longitude": 99.917152
+  },
+  {
+    "city_id": "1805298",
+    "name": "Jinzhou",
+    "country": "CN",
+    "state": "",
+    "latitude": 39.099998,
+    "longitude": 121.716667
+  },
+  {
+    "city_id": "1268865",
+    "name": "Jodhpur",
+    "country": "IN",
+    "state": "",
+    "latitude": 26.286667,
+    "longitude": 73.029999
+  },
+  {
+    "city_id": "993800",
+    "name": "Johannesburg",
+    "country": "ZA",
+    "state": "",
+    "latitude": -26.202271,
+    "longitude": 28.043631
+  },
+  {
+    "city_id": "3459712",
+    "name": "Joinville",
+    "country": "BR",
+    "state": "",
+    "latitude": -26.30444,
+    "longitude": -48.845558
+  },
+  {
+    "city_id": "4898015",
+    "name": "Joliet",
+    "country": "US",
+    "state": "IL",
+    "latitude": 41.525028,
+    "longitude": -88.081734
+  },
+  {
+    "city_id": "373303",
+    "name": "Juba",
+    "country": "SS",
+    "state": "",
+    "latitude": 4.85165,
+    "longitude": 31.58247
+  },
+  {
+    "city_id": "5554072",
+    "name": "Juneau",
+    "country": "US",
+    "state": "AK",
+    "latitude": 58.301941,
+    "longitude": -134.419724
+  },
+  {
+    "city_id": "1138958",
+    "name": "Kabul",
+    "country": "AF",
+    "state": "",
+    "latitude": 34.52813,
+    "longitude": 69.172333
+  },
+  {
+    "city_id": "2335727",
+    "name": "Kaduna",
+    "country": "NG",
+    "state": "",
+    "latitude": 10.52224,
+    "longitude": 7.43828
+  },
+  {
+    "city_id": "1804879",
+    "name": "Kaifeng",
+    "country": "CN",
+    "state": "",
+    "latitude": 34.791111,
+    "longitude": 114.348328
+  },
+  {
+    "city_id": "232422",
+    "name": "Kampala",
+    "country": "UG",
+    "state": "",
+    "latitude": 0.31628,
+    "longitude": 32.582191
+  },
+  {
+    "city_id": "214478",
+    "name": "Kananga",
+    "country": "CD",
+    "state": "",
+    "latitude": -9.08333,
+    "longitude": 23.9
+  },
+  {
+    "city_id": "1274987",
+    "name": "Kannur",
+    "country": "IN",
+    "state": "",
+    "latitude": 11.86752,
+    "longitude": 75.357628
+  },
+  {
+    "city_id": "2335204",
+    "name": "Kano",
+    "country": "NG",
+    "state": "",
+    "latitude": 12.00012,
+    "longitude": 8.51672
+  },
+  {
+    "city_id": "1267995",
+    "name": "Kanpur",
+    "country": "IN",
+    "state": "",
+    "latitude": 26.466667,
+    "longitude": 80.349998
+  },
+  {
+    "city_id": "4393217",
+    "name": "Kansas City",
+    "country": "US",
+    "state": "MO",
+    "latitude": 39.099731,
+    "longitude": -94.578568
+  },
+  {
+    "city_id": "4273837",
+    "name": "Kansas City",
+    "country": "US",
+    "state": "KS",
+    "latitude": 39.11417,
+    "longitude": -94.627457
+  },
+  {
+    "city_id": "1174872",
+    "name": "Karachi",
+    "country": "PK",
+    "state": "",
+    "latitude": 24.9056,
+    "longitude": 67.082199
+  },
+  {
+    "city_id": "128747",
+    "name": "Karaj",
+    "country": "IR",
+    "state": "",
+    "latitude": 35.835499,
+    "longitude": 51.0103
+  },
+  {
+    "city_id": "1283240",
+    "name": "Kathmandu",
+    "country": "NP",
+    "state": "",
+    "latitude": 27.716667,
+    "longitude": 85.316666
+  },
+  {
+    "city_id": "551487",
+    "name": "Kazan",
+    "country": "RU",
+    "state": "",
+    "latitude": 55.788738,
+    "longitude": 49.122139
+  },
+  {
+    "city_id": "5799625",
+    "name": "Kent",
+    "country": "US",
+    "state": "WA",
+    "latitude": 47.380932,
+    "longitude": -122.23484
+  },
+  {
+    "city_id": "706483",
+    "name": "Kharkiv",
+    "country": "UA",
+    "state": "",
+    "latitude": 50.0,
+    "longitude": 36.25
+  },
+  {
+    "city_id": "379252",
+    "name": "Khartoum",
+    "country": "SD",
+    "state": "",
+    "latitude": 15.55177,
+    "longitude": 32.53241
+  },
+  {
+    "city_id": "202061",
+    "name": "Kigali",
+    "country": "RW",
+    "state": "",
+    "latitude": -1.94995,
+    "longitude": 30.058849
+  },
+  {
+    "city_id": "4703223",
+    "name": "Killeen",
+    "country": "US",
+    "state": "TX",
+    "latitude": 31.117121,
+    "longitude": -97.727798
+  },
+  {
+    "city_id": "3489854",
+    "name": "Kingston",
+    "country": "JM",
+    "state": "",
+    "latitude": 17.997021,
+    "longitude": -76.793579
+  },
+  {
+    "city_id": "3577887",
+    "name": "Kingstown",
+    "country": "VC",
+    "state": "",
+    "latitude": 13.15872,
+    "longitude": -61.224751
+  },
+  {
+    "city_id": "2314302",
+    "name": "Kinshasa",
+    "country": "CD",
+    "state": "",
+    "latitude": -4.32459,
+    "longitude": 15.32146
+  },
+  {
+    "city_id": "4634946",
+    "name": "Knoxville",
+    "country": "US",
+    "state": "TN",
+    "latitude": 35.96064,
+    "longitude": -83.920738
+  },
+  {
+    "city_id": "1275004",
+    "name": "Kolkata",
+    "country": "IN",
+    "state": "",
+    "latitude": 22.569719,
+    "longitude": 88.36972
+  },
+  {
+    "city_id": "1259091",
+    "name": "Kollam",
+    "country": "IN",
+    "state": "",
+    "latitude": 8.88333,
+    "longitude": 76.599998
+  },
+  {
+    "city_id": "306569",
+    "name": "Konya",
+    "country": "TR",
+    "state": "",
+    "latitude": 38.166672,
+    "longitude": 32.5
+  },
+  {
+    "city_id": "1266049",
+    "name": "Kota",
+    "country": "IN",
+    "state": "",
+    "latitude": 25.183331,
+    "longitude": 75.833328
+  },
+  {
+    "city_id": "1265873",
+    "name": "Kozhikode",
+    "country": "IN",
+    "state": "",
+    "latitude": 11.25,
+    "longitude": 75.76667
+  },
+  {
+    "city_id": "1733046",
+    "name": "Kuala Lumpur",
+    "country": "MY",
+    "state": "",
+    "latitude": 3.14309,
+    "longitude": 101.686531
+  },
+  {
+    "city_id": "2298890",
+    "name": "Kumasi",
+    "country": "GH",
+    "state": "",
+    "latitude": 6.68848,
+    "longitude": -1.62443
+  },
+  {
+    "city_id": "1804651",
+    "name": "Kunming",
+    "country": "CN",
+    "state": "",
+    "latitude": 25.038891,
+    "longitude": 102.71833
+  },
+  {
+    "city_id": "285787",
+    "name": "Kuwait City",
+    "country": "KW",
+    "state": "",
+    "latitude": 29.36972,
+    "longitude": 47.978329
+  },
+  {
+    "city_id": "3911925",
+    "name": "La Paz",
+    "country": "BO",
+    "state": "",
+    "latitude": -16.5,
+    "longitude": -68.150002
+  },
+  {
+    "city_id": "4330145",
+    "name": "Lafayette",
+    "country": "US",
+    "state": "LA",
+    "latitude": 30.224091,
+    "longitude": -92.019836
+  },
+  {
+    "city_id": "2332459",
+    "name": "Lagos",
+    "country": "NG",
+    "state": "",
+    "latitude": 6.45306,
+    "longitude": 3.39583
+  },
+  {
+    "city_id": "1172451",
+    "name": "Lahore",
+    "country": "PK",
+    "state": "",
+    "latitude": 31.549721,
+    "longitude": 74.343613
+  },
+  {
+    "city_id": "4161438",
+    "name": "Lakeland",
+    "country": "US",
+    "state": "FL",
+    "latitude": 28.039471,
+    "longitude": -81.949799
+  },
+  {
+    "city_id": "5427946",
+    "name": "Lakewood",
+    "country": "US",
+    "state": "CO",
+    "latitude": 39.704708,
+    "longitude": -105.081367
+  },
+  {
+    "city_id": "5100280",
+    "name": "Lakewood",
+    "country": "US",
+    "state": "NJ",
+    "latitude": 40.097889,
+    "longitude": -74.217644
+  },
+  {
+    "city_id": "5364940",
+    "name": "Lancaster",
+    "country": "US",
+    "state": "CA",
+    "latitude": 34.69804,
+    "longitude": -118.136742
+  },
+  {
+    "city_id": "4998830",
+    "name": "Lansing",
+    "country": "US",
+    "state": "MI",
+    "latitude": 42.73254,
+    "longitude": -84.555527
+  },
+  {
+    "city_id": "1804430",
+    "name": "Lanzhou",
+    "country": "CN",
+    "state": "",
+    "latitude": 36.056389,
+    "longitude": 103.792221
+  },
+  {
+    "city_id": "4705349",
+    "name": "Laredo",
+    "country": "US",
+    "state": "TX",
+    "latitude": 27.506411,
+    "longitude": -99.507538
+  },
+  {
+    "city_id": "5506956",
+    "name": "Las Vegas",
+    "country": "US",
+    "state": "NV",
+    "latitude": 36.174969,
+    "longitude": -115.137222
+  },
+  {
+    "city_id": "4706057",
+    "name": "Lewisville",
+    "country": "US",
+    "state": "TX",
+    "latitude": 33.04623,
+    "longitude": -96.994171
+  },
+  {
+    "city_id": "4297983",
+    "name": "Lexington",
+    "country": "US",
+    "state": "KY",
+    "latitude": 37.988689,
+    "longitude": -84.477722
+  },
+  {
+    "city_id": "2399697",
+    "name": "Libreville",
+    "country": "GA",
+    "state": "",
+    "latitude": 0.3925,
+    "longitude": 9.45365
+  },
+  {
+    "city_id": "927967",
+    "name": "Lilongwe",
+    "country": "MW",
+    "state": "",
+    "latitude": -13.96692,
+    "longitude": 33.787251
+  },
+  {
+    "city_id": "3936452",
+    "name": "Lima",
+    "country": "PE",
+    "state": "",
+    "latitude": -12.00389,
+    "longitude": -76.638893
+  },
+  {
+    "city_id": "5072006",
+    "name": "Lincoln",
+    "country": "US",
+    "state": "NE",
+    "latitude": 40.799999,
+    "longitude": -96.666962
+  },
+  {
+    "city_id": "1803317",
+    "name": "Linyi",
+    "country": "CN",
+    "state": "",
+    "latitude": 37.19083,
+    "longitude": 116.866669
+  },
+  {
+    "city_id": "2267057",
+    "name": "Lisbon",
+    "country": "PT",
+    "state": "",
+    "latitude": 38.716671,
+    "longitude": -9.13333
+  },
+  {
+    "city_id": "4119403",
+    "name": "Little Rock",
+    "country": "US",
+    "state": "AR",
+    "latitude": 34.746479,
+    "longitude": -92.289589
+  },
+  {
+    "city_id": "1555551",
+    "name": "Liuyang",
+    "country": "CN",
+    "state": "",
+    "latitude": 30.48333,
+    "longitude": 116.333328
+  },
+  {
+    "city_id": "1803300",
+    "name": "Liuzhou",
+    "country": "CN",
+    "state": "",
+    "latitude": 24.31258,
+    "longitude": 109.38916
+  },
+  {
+    "city_id": "3196359",
+    "name": "Ljubljana",
+    "country": "SI",
+    "state": "",
+    "latitude": 46.051079,
+    "longitude": 14.50513
+  },
+  {
+    "city_id": "2643743",
+    "name": "London",
+    "country": "GB",
+    "state": "",
+    "latitude": 51.50853,
+    "longitude": -0.12574
+  },
+  {
+    "city_id": "5367929",
+    "name": "Long Beach",
+    "country": "US",
+    "state": "CA",
+    "latitude": 33.76696,
+    "longitude": -118.189232
+  },
+  {
+    "city_id": "5368361",
+    "name": "Los Angeles",
+    "country": "US",
+    "state": "CA",
+    "latitude": 34.052231,
+    "longitude": -118.243683
+  },
+  {
+    "city_id": "4299276",
+    "name": "Louisville",
+    "country": "US",
+    "state": "KY",
+    "latitude": 38.254238,
+    "longitude": -85.759407
+  },
+  {
+    "city_id": "4942618",
+    "name": "Lowell",
+    "country": "US",
+    "state": "MA",
+    "latitude": 42.633419,
+    "longitude": -71.31617
+  },
+  {
+    "city_id": "2240449",
+    "name": "Luanda",
+    "country": "AO",
+    "state": "",
+    "latitude": -8.83682,
+    "longitude": 13.23432
+  },
+  {
+    "city_id": "5525577",
+    "name": "Lubbock",
+    "country": "US",
+    "state": "TX",
+    "latitude": 33.577862,
+    "longitude": -101.855171
+  },
+  {
+    "city_id": "922704",
+    "name": "Lubumbashi",
+    "country": "CD",
+    "state": "",
+    "latitude": -11.66089,
+    "longitude": 27.47938
+  },
+  {
+    "city_id": "1264733",
+    "name": "Lucknow",
+    "country": "IN",
+    "state": "",
+    "latitude": 26.85,
+    "longitude": 80.916664
+  },
+  {
+    "city_id": "1801934",
+    "name": "Luohe",
+    "country": "CN",
+    "state": "",
+    "latitude": 33.571671,
+    "longitude": 114.035278
+  },
+  {
+    "city_id": "1550044",
+    "name": "Luoyang",
+    "country": "CN",
+    "state": "",
+    "latitude": 34.710812,
+    "longitude": 119.107018
+  },
+  {
+    "city_id": "909137",
+    "name": "Lusaka",
+    "country": "ZM",
+    "state": "",
+    "latitude": -15.40669,
+    "longitude": 28.28713
+  },
+  {
+    "city_id": "2960315",
+    "name": "Luxembourg",
+    "country": "LU",
+    "state": "",
+    "latitude": 49.599998,
+    "longitude": 6.13333
+  },
+  {
+    "city_id": "2996944",
+    "name": "Lyon",
+    "country": "FR",
+    "state": "",
+    "latitude": 45.748459,
+    "longitude": 4.84671
+  },
+  {
+    "city_id": "4207400",
+    "name": "Macon",
+    "country": "US",
+    "state": "GA",
+    "latitude": 32.840691,
+    "longitude": -83.632401
+  },
+  {
+    "city_id": "5261457",
+    "name": "Madison",
+    "country": "US",
+    "state": "WI",
+    "latitude": 43.073051,
+    "longitude": -89.40123
+  },
+  {
+    "city_id": "3117735",
+    "name": "Madrid",
+    "country": "ES",
+    "state": "",
+    "latitude": 40.4165,
+    "longitude": -3.70256
+  },
+  {
+    "city_id": "1264521",
+    "name": "Madurai",
+    "country": "IN",
+    "state": "",
+    "latitude": 9.93333,
+    "longitude": 78.116669
+  },
+  {
+    "city_id": "2113779",
+    "name": "Majuro",
+    "country": "MH",
+    "state": "",
+    "latitude": 7.08971,
+    "longitude": 171.380264
+  },
+  {
+    "city_id": "1622786",
+    "name": "Makassar",
+    "country": "ID",
+    "state": "",
+    "latitude": -5.14,
+    "longitude": 119.422096
+  },
+  {
+    "city_id": "2309527",
+    "name": "Malabo",
+    "country": "GQ",
+    "state": "",
+    "latitude": 3.75,
+    "longitude": 8.78333
+  },
+  {
+    "city_id": "1264154",
+    "name": "Malappuram",
+    "country": "IN",
+    "state": "",
+    "latitude": 11.06667,
+    "longitude": 76.066673
+  },
+  {
+    "city_id": "1282027",
+    "name": "Male",
+    "country": "MV",
+    "state": "",
+    "latitude": 4.1748,
+    "longitude": 73.508881
+  },
+  {
+    "city_id": "3617763",
+    "name": "Managua",
+    "country": "NI",
+    "state": "",
+    "latitude": 12.13282,
+    "longitude": -86.250397
+  },
+  {
+    "city_id": "290340",
+    "name": "Manama",
+    "country": "BH",
+    "state": "",
+    "latitude": 26.215361,
+    "longitude": 50.583199
+  },
+  {
+    "city_id": "3663517",
+    "name": "Manaus",
+    "country": "BR",
+    "state": "",
+    "latitude": -3.10194,
+    "longitude": -60.025002
+  },
+  {
+    "city_id": "2643123",
+    "name": "Manchester",
+    "country": "GB",
+    "state": "",
+    "latitude": 53.480949,
+    "longitude": -2.23743
+  },
+  {
+    "city_id": "1311874",
+    "name": "Mandalay",
+    "country": "MM",
+    "state": "",
+    "latitude": 21.97473,
+    "longitude": 96.083588
+  },
+  {
+    "city_id": "1701668",
+    "name": "Manila",
+    "country": "PH",
+    "state": "",
+    "latitude": 14.6042,
+    "longitude": 120.982201
+  },
+  {
+    "city_id": "1801180",
+    "name": "Maoming",
+    "country": "CN",
+    "state": "",
+    "latitude": 21.65,
+    "longitude": 110.900002
+  },
+  {
+    "city_id": "1040652",
+    "name": "Maputo",
+    "country": "MZ",
+    "state": "",
+    "latitude": -25.965281,
+    "longitude": 32.589169
+  },
+  {
+    "city_id": "3633009",
+    "name": "Maracaibo",
+    "country": "VE",
+    "state": "",
+    "latitude": 10.63167,
+    "longitude": -71.640556
+  },
+  {
+    "city_id": "3632998",
+    "name": "Maracay",
+    "country": "VE",
+    "state": "",
+    "latitude": 10.24694,
+    "longitude": -67.595833
+  },
+  {
+    "city_id": "2995469",
+    "name": "Marseille",
+    "country": "FR",
+    "state": "",
+    "latitude": 43.296951,
+    "longitude": 5.38107
+  },
+  {
+    "city_id": "932505",
+    "name": "Maseru",
+    "country": "LS",
+    "state": "",
+    "latitude": -29.316669,
+    "longitude": 27.48333
+  },
+  {
+    "city_id": "124665",
+    "name": "Mashhad",
+    "country": "IR",
+    "state": "",
+    "latitude": 36.297001,
+    "longitude": 59.606201
+  },
+  {
+    "city_id": "1039854",
+    "name": "Matola",
+    "country": "MZ",
+    "state": "",
+    "latitude": -25.962219,
+    "longitude": 32.458889
+  },
+  {
+    "city_id": "934985",
+    "name": "Mbabane",
+    "country": "SZ",
+    "state": "",
+    "latitude": -26.316669,
+    "longitude": 31.133329
+  },
+  {
+    "city_id": "209228",
+    "name": "Mbuji-Mayi",
+    "country": "CD",
+    "state": "",
+    "latitude": -6.15,
+    "longitude": 23.6
+  },
+  {
+    "city_id": "4709796",
+    "name": "McAllen",
+    "country": "US",
+    "state": "TX",
+    "latitude": 26.203409,
+    "longitude": -98.230011
+  },
+  {
+    "city_id": "4710178",
+    "name": "McKinney",
+    "country": "US",
+    "state": "TX",
+    "latitude": 33.19762,
+    "longitude": -96.615273
+  },
+  {
+    "city_id": "104515",
+    "name": "Mecca",
+    "country": "SA",
+    "state": "",
+    "latitude": 21.42667,
+    "longitude": 39.826111
+  },
+  {
+    "city_id": "1214520",
+    "name": "Medan",
+    "country": "ID",
+    "state": "",
+    "latitude": 3.58333,
+    "longitude": 98.666672
+  },
+  {
+    "city_id": "3674962",
+    "name": "Medell\u00edn",
+    "country": "CO",
+    "state": "",
+    "latitude": 6.25184,
+    "longitude": -75.563591
+  },
+  {
+    "city_id": "109223",
+    "name": "Medina",
+    "country": "SA",
+    "state": "",
+    "latitude": 24.468611,
+    "longitude": 39.61417
+  },
+  {
+    "city_id": "1263214",
+    "name": "Meerut",
+    "country": "IN",
+    "state": "",
+    "latitude": 28.98333,
+    "longitude": 77.699997
+  },
+  {
+    "city_id": "2158177",
+    "name": "Melbourne",
+    "country": "AU",
+    "state": "",
+    "latitude": -37.813999,
+    "longitude": 144.963318
+  },
+  {
+    "city_id": "4641239",
+    "name": "Memphis",
+    "country": "US",
+    "state": "TN",
+    "latitude": 35.149529,
+    "longitude": -90.048981
+  },
+  {
+    "city_id": "3844421",
+    "name": "Mendoza",
+    "country": "AR",
+    "state": "",
+    "latitude": -32.890839,
+    "longitude": -68.827171
+  },
+  {
+    "city_id": "5600685",
+    "name": "Meridian",
+    "country": "US",
+    "state": "ID",
+    "latitude": 43.61211,
+    "longitude": -116.39151
+  },
+  {
+    "city_id": "5304391",
+    "name": "Mesa",
+    "country": "US",
+    "state": "AZ",
+    "latitude": 33.422272,
+    "longitude": -111.822639
+  },
+  {
+    "city_id": "4710826",
+    "name": "Mesquite",
+    "country": "US",
+    "state": "TX",
+    "latitude": 32.7668,
+    "longitude": -96.599159
+  },
+  {
+    "city_id": "3996069",
+    "name": "Mexicali",
+    "country": "MX",
+    "state": "",
+    "latitude": 32.651939,
+    "longitude": -115.46833
+  },
+  {
+    "city_id": "3530597",
+    "name": "Mexico City",
+    "country": "MX",
+    "state": "",
+    "latitude": 19.428471,
+    "longitude": -99.127663
+  },
+  {
+    "city_id": "4164138",
+    "name": "Miami",
+    "country": "US",
+    "state": "FL",
+    "latitude": 25.774269,
+    "longitude": -80.193657
+  },
+  {
+    "city_id": "5526337",
+    "name": "Midland",
+    "country": "US",
+    "state": "TX",
+    "latitude": 31.997351,
+    "longitude": -102.077911
+  },
+  {
+    "city_id": "3173435",
+    "name": "Milan",
+    "country": "IT",
+    "state": "",
+    "latitude": 45.464272,
+    "longitude": 9.18951
+  },
+  {
+    "city_id": "5263045",
+    "name": "Milwaukee",
+    "country": "US",
+    "state": "WI",
+    "latitude": 43.038898,
+    "longitude": -87.906471
+  },
+  {
+    "city_id": "5037649",
+    "name": "Minneapolis",
+    "country": "US",
+    "state": "MN",
+    "latitude": 44.979969,
+    "longitude": -93.26384
+  },
+  {
+    "city_id": "625144",
+    "name": "Minsk",
+    "country": "BY",
+    "state": "",
+    "latitude": 53.900002,
+    "longitude": 27.566668
+  },
+  {
+    "city_id": "4164601",
+    "name": "Miramar",
+    "country": "US",
+    "state": "FL",
+    "latitude": 25.98731,
+    "longitude": -80.232269
+  },
+  {
+    "city_id": "4076598",
+    "name": "Mobile",
+    "country": "US",
+    "state": "AL",
+    "latitude": 30.694361,
+    "longitude": -88.043053
+  },
+  {
+    "city_id": "5373900",
+    "name": "Modesto",
+    "country": "US",
+    "state": "CA",
+    "latitude": 37.639099,
+    "longitude": -120.99688
+  },
+  {
+    "city_id": "53654",
+    "name": "Mogadishu",
+    "country": "SO",
+    "state": "",
+    "latitude": 2.03711,
+    "longitude": 45.34375
+  },
+  {
+    "city_id": "186301",
+    "name": "Mombasa",
+    "country": "KE",
+    "state": "",
+    "latitude": -4.05466,
+    "longitude": 39.663589
+  },
+  {
+    "city_id": "2993458",
+    "name": "Monaco",
+    "country": "MC",
+    "state": "",
+    "latitude": 43.73333,
+    "longitude": 7.41667
+  },
+  {
+    "city_id": "2274895",
+    "name": "Monrovia",
+    "country": "LR",
+    "state": "",
+    "latitude": 6.30054,
+    "longitude": -10.7969
+  },
+  {
+    "city_id": "3995465",
+    "name": "Monterrey",
+    "country": "MX",
+    "state": "",
+    "latitude": 25.66667,
+    "longitude": -100.316673
+  },
+  {
+    "city_id": "3441575",
+    "name": "Montevideo",
+    "country": "UY",
+    "state": "",
+    "latitude": -34.833462,
+    "longitude": -56.167351
+  },
+  {
+    "city_id": "4076784",
+    "name": "Montgomery",
+    "country": "US",
+    "state": "AL",
+    "latitude": 32.36681,
+    "longitude": -86.299973
+  },
+  {
+    "city_id": "5238685",
+    "name": "Montpelier",
+    "country": "US",
+    "state": "VT",
+    "latitude": 44.260059,
+    "longitude": -72.575394
+  },
+  {
+    "city_id": "6077243",
+    "name": "Montr\u00e9al",
+    "country": "CA",
+    "state": "",
+    "latitude": 45.508839,
+    "longitude": -73.587807
+  },
+  {
+    "city_id": "5374732",
+    "name": "Moreno Valley",
+    "country": "US",
+    "state": "CA",
+    "latitude": 33.937519,
+    "longitude": -117.230591
+  },
+  {
+    "city_id": "921772",
+    "name": "Moroni",
+    "country": "KM",
+    "state": "",
+    "latitude": -11.70216,
+    "longitude": 43.255058
+  },
+  {
+    "city_id": "524894",
+    "name": "Moscow",
+    "country": "RU",
+    "state": "",
+    "latitude": 55.761665,
+    "longitude": 37.606667
+  },
+  {
+    "city_id": "99072",
+    "name": "Mosul",
+    "country": "IQ",
+    "state": "",
+    "latitude": 36.334999,
+    "longitude": 43.118889
+  },
+  {
+    "city_id": "1169825",
+    "name": "Multan",
+    "country": "PK",
+    "state": "",
+    "latitude": 30.19556,
+    "longitude": 71.475281
+  },
+  {
+    "city_id": "1275339",
+    "name": "Mumbai",
+    "country": "IN",
+    "state": "",
+    "latitude": 19.01441,
+    "longitude": 72.847939
+  },
+  {
+    "city_id": "2867714",
+    "name": "Munich",
+    "country": "DE",
+    "state": "",
+    "latitude": 48.137428,
+    "longitude": 11.57549
+  },
+  {
+    "city_id": "4644312",
+    "name": "Murfreesboro",
+    "country": "US",
+    "state": "TN",
+    "latitude": 35.845619,
+    "longitude": -86.390266
+  },
+  {
+    "city_id": "287286",
+    "name": "Muscat",
+    "country": "OM",
+    "state": "",
+    "latitude": 23.613871,
+    "longitude": 58.592201
+  },
+  {
+    "city_id": "152224",
+    "name": "Mwanza",
+    "country": "TZ",
+    "state": "",
+    "latitude": -2.51667,
+    "longitude": 32.900002
+  },
+  {
+    "city_id": "1262321",
+    "name": "Mysore",
+    "country": "IN",
+    "state": "",
+    "latitude": 12.30722,
+    "longitude": 76.649719
+  },
+  {
+    "city_id": "2427123",
+    "name": "N'Djamena",
+    "country": "TD",
+    "state": "",
+    "latitude": 12.10672,
+    "longitude": 15.0444
+  },
+  {
+    "city_id": "1856057",
+    "name": "Nagoya",
+    "country": "JP",
+    "state": "",
+    "latitude": 35.181469,
+    "longitude": 136.906403
+  },
+  {
+    "city_id": "1262180",
+    "name": "Nagpur",
+    "country": "IN",
+    "state": "",
+    "latitude": 21.15,
+    "longitude": 79.099998
+  },
+  {
+    "city_id": "184742",
+    "name": "Nairobi",
+    "country": "KE",
+    "state": "",
+    "latitude": -1.28333,
+    "longitude": 36.833328
+  },
+  {
+    "city_id": "1800163",
+    "name": "Nanchang",
+    "country": "CN",
+    "state": "",
+    "latitude": 28.683331,
+    "longitude": 115.883331
+  },
+  {
+    "city_id": "1800146",
+    "name": "Nanchong",
+    "country": "CN",
+    "state": "",
+    "latitude": 30.79508,
+    "longitude": 106.08474
+  },
+  {
+    "city_id": "1799962",
+    "name": "Nanjing",
+    "country": "CN",
+    "state": "",
+    "latitude": 32.061668,
+    "longitude": 118.777779
+  },
+  {
+    "city_id": "1799869",
+    "name": "Nanning",
+    "country": "CN",
+    "state": "",
+    "latitude": 22.816669,
+    "longitude": 108.316673
+  },
+  {
+    "city_id": "1799722",
+    "name": "Nantong",
+    "country": "CN",
+    "state": "",
+    "latitude": 32.030281,
+    "longitude": 120.874718
+  },
+  {
+    "city_id": "4903279",
+    "name": "Naperville",
+    "country": "US",
+    "state": "IL",
+    "latitude": 41.785858,
+    "longitude": -88.147293
+  },
+  {
+    "city_id": "3172394",
+    "name": "Naples",
+    "country": "IT",
+    "state": "",
+    "latitude": 40.833328,
+    "longitude": 14.25
+  },
+  {
+    "city_id": "1261731",
+    "name": "Nashik",
+    "country": "IN",
+    "state": "",
+    "latitude": 19.98333,
+    "longitude": 73.800003
+  },
+  {
+    "city_id": "4644585",
+    "name": "Nashville",
+    "country": "US",
+    "state": "TN",
+    "latitude": 36.16589,
+    "longitude": -86.784439
+  },
+  {
+    "city_id": "3571824",
+    "name": "Nassau",
+    "country": "BS",
+    "state": "",
+    "latitude": 25.058229,
+    "longitude": -77.343063
+  },
+  {
+    "city_id": "3394023",
+    "name": "Natal",
+    "country": "BR",
+    "state": "",
+    "latitude": -5.795,
+    "longitude": -35.209438
+  },
+  {
+    "city_id": "1261481",
+    "name": "New Delhi",
+    "country": "IN",
+    "state": "",
+    "latitude": 28.61282,
+    "longitude": 77.23114
+  },
+  {
+    "city_id": "4839366",
+    "name": "New Haven",
+    "country": "US",
+    "state": "CT",
+    "latitude": 41.308151,
+    "longitude": -72.928162
+  },
+  {
+    "city_id": "4335045",
+    "name": "New Orleans",
+    "country": "US",
+    "state": "LA",
+    "latitude": 29.954651,
+    "longitude": -90.075073
+  },
+  {
+    "city_id": "5128638",
+    "name": "New York",
+    "country": "US",
+    "state": "NY",
+    "latitude": 43.000351,
+    "longitude": -75.499901
+  },
+  {
+    "city_id": "5128581",
+    "name": "New York City",
+    "country": "US",
+    "state": "NY",
+    "latitude": 40.714272,
+    "longitude": -74.005966
+  },
+  {
+    "city_id": "5101798",
+    "name": "Newark",
+    "country": "US",
+    "state": "NJ",
+    "latitude": 40.735661,
+    "longitude": -74.172371
+  },
+  {
+    "city_id": "4776024",
+    "name": "Newport News",
+    "country": "US",
+    "state": "VA",
+    "latitude": 36.97876,
+    "longitude": -76.428001
+  },
+  {
+    "city_id": "2440485",
+    "name": "Niamey",
+    "country": "NE",
+    "state": "",
+    "latitude": 13.51366,
+    "longitude": 2.1098
+  },
+  {
+    "city_id": "146268",
+    "name": "Nicosia",
+    "country": "CY",
+    "state": "",
+    "latitude": 35.166672,
+    "longitude": 33.366669
+  },
+  {
+    "city_id": "1799397",
+    "name": "Ningbo",
+    "country": "CN",
+    "state": "",
+    "latitude": 29.878189,
+    "longitude": 121.549454
+  },
+  {
+    "city_id": "520555",
+    "name": "Nizhniy Novgorod",
+    "country": "RU",
+    "state": "",
+    "latitude": 56.328674,
+    "longitude": 44.002048
+  },
+  {
+    "city_id": "2328765",
+    "name": "Nnewi",
+    "country": "NG",
+    "state": "",
+    "latitude": 6.01986,
+    "longitude": 6.91478
+  },
+  {
+    "city_id": "4776222",
+    "name": "Norfolk",
+    "country": "US",
+    "state": "VA",
+    "latitude": 36.846809,
+    "longitude": -76.285217
+  },
+  {
+    "city_id": "4543762",
+    "name": "Norman",
+    "country": "US",
+    "state": "OK",
+    "latitude": 35.222569,
+    "longitude": -97.439484
+  },
+  {
+    "city_id": "4589387",
+    "name": "North Charleston",
+    "country": "US",
+    "state": "SC",
+    "latitude": 32.888561,
+    "longitude": -80.007507
+  },
+  {
+    "city_id": "5509403",
+    "name": "North Las Vegas",
+    "country": "US",
+    "state": "NV",
+    "latitude": 36.19886,
+    "longitude": -115.1175
+  },
+  {
+    "city_id": "2377450",
+    "name": "Nouakchott",
+    "country": "MR",
+    "state": "",
+    "latitude": 18.08581,
+    "longitude": -15.9785
+  },
+  {
+    "city_id": "1496747",
+    "name": "Novosibirsk",
+    "country": "RU",
+    "state": "",
+    "latitude": 55.041111,
+    "longitude": 82.934441
+  },
+  {
+    "city_id": "1526273",
+    "name": "Nur-Sultan",
+    "country": "KZ",
+    "state": "",
+    "latitude": 51.180099,
+    "longitude": 71.445976
+  },
+  {
+    "city_id": "5378538",
+    "name": "Oakland",
+    "country": "US",
+    "state": "CA",
+    "latitude": 37.804371,
+    "longitude": -122.270798
+  },
+  {
+    "city_id": "5378771",
+    "name": "Oceanside",
+    "country": "US",
+    "state": "CA",
+    "latitude": 33.195869,
+    "longitude": -117.379478
+  },
+  {
+    "city_id": "4544349",
+    "name": "Oklahoma City",
+    "country": "US",
+    "state": "OK",
+    "latitude": 35.46756,
+    "longitude": -97.516434
+  },
+  {
+    "city_id": "4276614",
+    "name": "Olathe",
+    "country": "US",
+    "state": "KS",
+    "latitude": 38.881401,
+    "longitude": -94.81913
+  },
+  {
+    "city_id": "5805687",
+    "name": "Olympia",
+    "country": "US",
+    "state": "WA",
+    "latitude": 47.037868,
+    "longitude": -122.900703
+  },
+  {
+    "city_id": "5074472",
+    "name": "Omaha",
+    "country": "US",
+    "state": "NE",
+    "latitude": 41.25861,
+    "longitude": -95.93779
+  },
+  {
+    "city_id": "2326016",
+    "name": "Onitsha",
+    "country": "NG",
+    "state": "",
+    "latitude": 6.14543,
+    "longitude": 6.78845
+  },
+  {
+    "city_id": "5379439",
+    "name": "Ontario",
+    "country": "US",
+    "state": "CA",
+    "latitude": 34.063339,
+    "longitude": -117.650887
+  },
+  {
+    "city_id": "5379513",
+    "name": "Orange",
+    "country": "US",
+    "state": "CA",
+    "latitude": 33.787788,
+    "longitude": -117.853111
+  },
+  {
+    "city_id": "4167147",
+    "name": "Orlando",
+    "country": "US",
+    "state": "FL",
+    "latitude": 28.53834,
+    "longitude": -81.379242
+  },
+  {
+    "city_id": "1853908",
+    "name": "Osaka",
+    "country": "JP",
+    "state": "",
+    "latitude": 35.950001,
+    "longitude": 137.266663
+  },
+  {
+    "city_id": "3143244",
+    "name": "Oslo",
+    "country": "NO",
+    "state": "",
+    "latitude": 59.912731,
+    "longitude": 10.74609
+  },
+  {
+    "city_id": "6094817",
+    "name": "Ottawa",
+    "country": "CA",
+    "state": "",
+    "latitude": 45.411171,
+    "longitude": -75.69812
+  },
+  {
+    "city_id": "2357048",
+    "name": "Ouagadougou",
+    "country": "BF",
+    "state": "",
+    "latitude": 12.36423,
+    "longitude": -1.53834
+  },
+  {
+    "city_id": "4276873",
+    "name": "Overland Park",
+    "country": "US",
+    "state": "KS",
+    "latitude": 38.982231,
+    "longitude": -94.670792
+  },
+  {
+    "city_id": "5380184",
+    "name": "Oxnard",
+    "country": "US",
+    "state": "CA",
+    "latitude": 34.197498,
+    "longitude": -119.177048
+  },
+  {
+    "city_id": "1633070",
+    "name": "Palembang",
+    "country": "ID",
+    "state": "",
+    "latitude": -2.91673,
+    "longitude": 104.745796
+  },
+  {
+    "city_id": "2081986",
+    "name": "Palikir - National Government Center",
+    "country": "FM",
+    "state": "",
+    "latitude": 6.92477,
+    "longitude": 158.161087
+  },
+  {
+    "city_id": "4167499",
+    "name": "Palm Bay",
+    "country": "US",
+    "state": "FL",
+    "latitude": 28.03446,
+    "longitude": -80.588661
+  },
+  {
+    "city_id": "5380698",
+    "name": "Palmdale",
+    "country": "US",
+    "state": "CA",
+    "latitude": 34.57943,
+    "longitude": -118.116463
+  },
+  {
+    "city_id": "3383330",
+    "name": "Paramaribo",
+    "country": "SR",
+    "state": "",
+    "latitude": 5.86638,
+    "longitude": -55.166821
+  },
+  {
+    "city_id": "2968815",
+    "name": "Paris",
+    "country": "FR",
+    "state": "",
+    "latitude": 48.853401,
+    "longitude": 2.3486
+  },
+  {
+    "city_id": "4717782",
+    "name": "Pasadena",
+    "country": "US",
+    "state": "TX",
+    "latitude": 29.691059,
+    "longitude": -95.209099
+  },
+  {
+    "city_id": "5381396",
+    "name": "Pasadena",
+    "country": "US",
+    "state": "CA",
+    "latitude": 34.147781,
+    "longitude": -118.144524
+  },
+  {
+    "city_id": "5102466",
+    "name": "Paterson",
+    "country": "US",
+    "state": "NJ",
+    "latitude": 40.916771,
+    "longitude": -74.171806
+  },
+  {
+    "city_id": "1260086",
+    "name": "Patna",
+    "country": "IN",
+    "state": "",
+    "latitude": 25.6,
+    "longitude": 85.116669
+  },
+  {
+    "city_id": "4718097",
+    "name": "Pearland",
+    "country": "US",
+    "state": "TX",
+    "latitude": 29.56357,
+    "longitude": -95.286049
+  },
+  {
+    "city_id": "1631761",
+    "name": "Pekanbaru",
+    "country": "ID",
+    "state": "",
+    "latitude": 0.53333,
+    "longitude": 101.449997
+  },
+  {
+    "city_id": "4168139",
+    "name": "Pembroke Pines",
+    "country": "US",
+    "state": "FL",
+    "latitude": 26.003151,
+    "longitude": -80.223938
+  },
+  {
+    "city_id": "5308480",
+    "name": "Peoria",
+    "country": "US",
+    "state": "AZ",
+    "latitude": 33.580601,
+    "longitude": -112.237381
+  },
+  {
+    "city_id": "2063523",
+    "name": "Perth",
+    "country": "AU",
+    "state": "",
+    "latitude": -31.933331,
+    "longitude": 115.833328
+  },
+  {
+    "city_id": "1168197",
+    "name": "Peshawar",
+    "country": "PK",
+    "state": "",
+    "latitude": 34.007999,
+    "longitude": 71.578491
+  },
+  {
+    "city_id": "4440906",
+    "name": "Philadelphia",
+    "country": "US",
+    "state": "MS",
+    "latitude": 32.771519,
+    "longitude": -89.11673
+  },
+  {
+    "city_id": "4560349",
+    "name": "Philadelphia",
+    "country": "US",
+    "state": "PA",
+    "latitude": 39.952339,
+    "longitude": -75.163788
+  },
+  {
+    "city_id": "1821306",
+    "name": "Phnom Penh",
+    "country": "KH",
+    "state": "",
+    "latitude": 11.56245,
+    "longitude": 104.916008
+  },
+  {
+    "city_id": "4905873",
+    "name": "Phoenix",
+    "country": "US",
+    "state": "IL",
+    "latitude": 41.611149,
+    "longitude": -87.634773
+  },
+  {
+    "city_id": "5308655",
+    "name": "Phoenix",
+    "country": "US",
+    "state": "AZ",
+    "latitude": 33.44838,
+    "longitude": -112.074043
+  },
+  {
+    "city_id": "5767918",
+    "name": "Pierre",
+    "country": "US",
+    "state": "SD",
+    "latitude": 44.36832,
+    "longitude": -100.350967
+  },
+  {
+    "city_id": "5206379",
+    "name": "Pittsburgh",
+    "country": "US",
+    "state": "PA",
+    "latitude": 40.44062,
+    "longitude": -79.995888
+  },
+  {
+    "city_id": "1785716",
+    "name": "Pizhou",
+    "country": "CN",
+    "state": "",
+    "latitude": 34.31139,
+    "longitude": 117.950279
+  },
+  {
+    "city_id": "4719457",
+    "name": "Plano",
+    "country": "US",
+    "state": "TX",
+    "latitude": 33.01984,
+    "longitude": -96.698891
+  },
+  {
+    "city_id": "3189077",
+    "name": "Podgorica",
+    "country": "ME",
+    "state": "",
+    "latitude": 42.5,
+    "longitude": 19.33333
+  },
+  {
+    "city_id": "2255414",
+    "name": "Pointe-Noire",
+    "country": "CG",
+    "state": "",
+    "latitude": -4.77609,
+    "longitude": 11.86352
+  },
+  {
+    "city_id": "5384170",
+    "name": "Pomona",
+    "country": "US",
+    "state": "CA",
+    "latitude": 34.05529,
+    "longitude": -117.752281
+  },
+  {
+    "city_id": "934154",
+    "name": "Port Louis",
+    "country": "MU",
+    "state": "",
+    "latitude": -20.16194,
+    "longitude": 57.49889
+  },
+  {
+    "city_id": "2088122",
+    "name": "Port Moresby",
+    "country": "PG",
+    "state": "",
+    "latitude": -9.44314,
+    "longitude": 147.179718
+  },
+  {
+    "city_id": "3573890",
+    "name": "Port of Spain",
+    "country": "TT",
+    "state": "",
+    "latitude": 10.66617,
+    "longitude": -61.516571
+  },
+  {
+    "city_id": "2135171",
+    "name": "Port-Vila",
+    "country": "VU",
+    "state": "",
+    "latitude": -17.73381,
+    "longitude": 168.321884
+  },
+  {
+    "city_id": "3718426",
+    "name": "Port-au-Prince",
+    "country": "HT",
+    "state": "",
+    "latitude": 18.539169,
+    "longitude": -72.334999
+  },
+  {
+    "city_id": "5746545",
+    "name": "Portland",
+    "country": "US",
+    "state": "OR",
+    "latitude": 45.523449,
+    "longitude": -122.676208
+  },
+  {
+    "city_id": "2735943",
+    "name": "Porto",
+    "country": "PT",
+    "state": "",
+    "latitude": 41.149609,
+    "longitude": -8.61099
+  },
+  {
+    "city_id": "3452925",
+    "name": "Porto Alegre",
+    "country": "BR",
+    "state": "",
+    "latitude": -30.03306,
+    "longitude": -51.23
+  },
+  {
+    "city_id": "2392087",
+    "name": "Porto-Novo",
+    "country": "BJ",
+    "state": "",
+    "latitude": 6.49646,
+    "longitude": 2.60359
+  },
+  {
+    "city_id": "3067696",
+    "name": "Prague",
+    "country": "CZ",
+    "state": "",
+    "latitude": 50.088039,
+    "longitude": 14.42076
+  },
+  {
+    "city_id": "3374333",
+    "name": "Praia",
+    "country": "CV",
+    "state": "",
+    "latitude": 14.92148,
+    "longitude": -23.50868
+  },
+  {
+    "city_id": "964137",
+    "name": "Pretoria",
+    "country": "ZA",
+    "state": "",
+    "latitude": -25.74486,
+    "longitude": 28.18783
+  },
+  {
+    "city_id": "5224151",
+    "name": "Providence",
+    "country": "US",
+    "state": "RI",
+    "latitude": 41.82399,
+    "longitude": -71.412827
+  },
+  {
+    "city_id": "3521081",
+    "name": "Puebla",
+    "country": "MX",
+    "state": "",
+    "latitude": 19.049999,
+    "longitude": -98.199997
+  },
+  {
+    "city_id": "1259229",
+    "name": "Pune",
+    "country": "IN",
+    "state": "",
+    "latitude": 18.519569,
+    "longitude": 73.855347
+  },
+  {
+    "city_id": "1802940",
+    "name": "Puning",
+    "country": "CN",
+    "state": "",
+    "latitude": 23.31072,
+    "longitude": 116.168694
+  },
+  {
+    "city_id": "1798449",
+    "name": "Putian",
+    "country": "CN",
+    "state": "",
+    "latitude": 25.43944,
+    "longitude": 119.010277
+  },
+  {
+    "city_id": "1871856",
+    "name": "Pyongyang",
+    "country": "KP",
+    "state": "",
+    "latitude": 38.985279,
+    "longitude": 125.92778
+  },
+  {
+    "city_id": "1797929",
+    "name": "Qingdao",
+    "country": "CN",
+    "state": "",
+    "latitude": 36.09861,
+    "longitude": 120.371941
+  },
+  {
+    "city_id": "1797595",
+    "name": "Qinhuangdao",
+    "country": "CN",
+    "state": "",
+    "latitude": 39.931671,
+    "longitude": 119.588333
+  },
+  {
+    "city_id": "119208",
+    "name": "Qom",
+    "country": "IR",
+    "state": "",
+    "latitude": 34.640099,
+    "longitude": 50.8764
+  },
+  {
+    "city_id": "1797352",
+    "name": "Quanzhou",
+    "country": "CN",
+    "state": "",
+    "latitude": 25.944599,
+    "longitude": 111.0364
+  },
+  {
+    "city_id": "1167528",
+    "name": "Quetta",
+    "country": "PK",
+    "state": "",
+    "latitude": 30.198999,
+    "longitude": 67.009712
+  },
+  {
+    "city_id": "3652462",
+    "name": "Quito",
+    "country": "EC",
+    "state": "",
+    "latitude": -0.22985,
+    "longitude": -78.524948
+  },
+  {
+    "city_id": "2538474",
+    "name": "Rabat",
+    "country": "MA",
+    "state": "",
+    "latitude": 33.991112,
+    "longitude": -6.84006
+  },
+  {
+    "city_id": "1258972",
+    "name": "Raipur",
+    "country": "IN",
+    "state": "",
+    "latitude": 26.049999,
+    "longitude": 74.01667
+  },
+  {
+    "city_id": "4487042",
+    "name": "Raleigh",
+    "country": "US",
+    "state": "NC",
+    "latitude": 35.772099,
+    "longitude": -78.638611
+  },
+  {
+    "city_id": "1258526",
+    "name": "Ranchi",
+    "country": "IN",
+    "state": "",
+    "latitude": 23.35,
+    "longitude": 85.333328
+  },
+  {
+    "city_id": "5385955",
+    "name": "Rancho Cucamonga",
+    "country": "US",
+    "state": "CA",
+    "latitude": 34.1064,
+    "longitude": -117.593109
+  },
+  {
+    "city_id": "1166993",
+    "name": "Rawalpindi",
+    "country": "PK",
+    "state": "",
+    "latitude": 33.6007,
+    "longitude": 73.067902
+  },
+  {
+    "city_id": "3390760",
+    "name": "Recife",
+    "country": "BR",
+    "state": "",
+    "latitude": -8.05389,
+    "longitude": -34.881111
+  },
+  {
+    "city_id": "5511077",
+    "name": "Reno",
+    "country": "US",
+    "state": "NV",
+    "latitude": 39.529629,
+    "longitude": -119.813797
+  },
+  {
+    "city_id": "6692263",
+    "name": "Reykjavik",
+    "country": "IS",
+    "state": "",
+    "latitude": 64.118401,
+    "longitude": -21.85799
+  },
+  {
+    "city_id": "4781708",
+    "name": "Richmond",
+    "country": "US",
+    "state": "VA",
+    "latitude": 37.553761,
+    "longitude": -77.460258
+  },
+  {
+    "city_id": "456172",
+    "name": "Riga",
+    "country": "LV",
+    "state": "",
+    "latitude": 56.950001,
+    "longitude": 24.1
+  },
+  {
+    "city_id": "3451189",
+    "name": "Rio de Janeiro",
+    "country": "BR",
+    "state": "",
+    "latitude": -22.0,
+    "longitude": -42.5
+  },
+  {
+    "city_id": "5387877",
+    "name": "Riverside",
+    "country": "US",
+    "state": "CA",
+    "latitude": 33.95335,
+    "longitude": -117.396156
+  },
+  {
+    "city_id": "108410",
+    "name": "Riyadh",
+    "country": "SA",
+    "state": "",
+    "latitude": 24.687731,
+    "longitude": 46.721851
+  },
+  {
+    "city_id": "1797132",
+    "name": "Rizhao",
+    "country": "CN",
+    "state": "",
+    "latitude": 35.427502,
+    "longitude": 119.455276
+  },
+  {
+    "city_id": "5134086",
+    "name": "Rochester",
+    "country": "US",
+    "state": "NY",
+    "latitude": 43.154781,
+    "longitude": -77.615562
+  },
+  {
+    "city_id": "5043473",
+    "name": "Rochester",
+    "country": "US",
+    "state": "MN",
+    "latitude": 44.021629,
+    "longitude": -92.469902
+  },
+  {
+    "city_id": "4907959",
+    "name": "Rockford",
+    "country": "US",
+    "state": "IL",
+    "latitude": 42.27113,
+    "longitude": -89.094002
+  },
+  {
+    "city_id": "3169070",
+    "name": "Rome",
+    "country": "IT",
+    "state": "",
+    "latitude": 41.894741,
+    "longitude": 12.4839
+  },
+  {
+    "city_id": "3838583",
+    "name": "Rosario",
+    "country": "AR",
+    "state": "",
+    "latitude": -32.946819,
+    "longitude": -60.63932
+  },
+  {
+    "city_id": "3575635",
+    "name": "Roseau",
+    "country": "DM",
+    "state": "",
+    "latitude": 15.30174,
+    "longitude": -61.388081
+  },
+  {
+    "city_id": "5388881",
+    "name": "Roseville",
+    "country": "US",
+    "state": "CA",
+    "latitude": 38.752121,
+    "longitude": -121.28801
+  },
+  {
+    "city_id": "4724129",
+    "name": "Round Rock",
+    "country": "US",
+    "state": "TX",
+    "latitude": 30.508261,
+    "longitude": -97.678902
+  },
+  {
+    "city_id": "5389489",
+    "name": "Sacramento",
+    "country": "US",
+    "state": "CA",
+    "latitude": 38.58157,
+    "longitude": -121.4944
+  },
+  {
+    "city_id": "3579925",
+    "name": "Saint George's",
+    "country": "GD",
+    "state": "",
+    "latitude": 12.05644,
+    "longitude": -61.748489
+  },
+  {
+    "city_id": "5045360",
+    "name": "Saint Paul",
+    "country": "US",
+    "state": "MN",
+    "latitude": 44.944408,
+    "longitude": -93.093269
+  },
+  {
+    "city_id": "498817",
+    "name": "Saint Petersburg",
+    "country": "RU",
+    "state": "",
+    "latitude": 59.894444,
+    "longitude": 30.264168
+  },
+  {
+    "city_id": "1257629",
+    "name": "Salem",
+    "country": "IN",
+    "state": "",
+    "latitude": 11.65,
+    "longitude": 78.166672
+  },
+  {
+    "city_id": "5750162",
+    "name": "Salem",
+    "country": "US",
+    "state": "OR",
+    "latitude": 44.942902,
+    "longitude": -123.035103
+  },
+  {
+    "city_id": "5391295",
+    "name": "Salinas",
+    "country": "US",
+    "state": "CA",
+    "latitude": 36.677738,
+    "longitude": -121.655502
+  },
+  {
+    "city_id": "5780993",
+    "name": "Salt Lake City",
+    "country": "US",
+    "state": "UT",
+    "latitude": 40.76078,
+    "longitude": -111.891052
+  },
+  {
+    "city_id": "3450554",
+    "name": "Salvador",
+    "country": "BR",
+    "state": "",
+    "latitude": -12.97111,
+    "longitude": -38.51083
+  },
+  {
+    "city_id": "1606590",
+    "name": "Samut Prakan",
+    "country": "TH",
+    "state": "",
+    "latitude": 13.59934,
+    "longitude": 100.596748
+  },
+  {
+    "city_id": "4171771",
+    "name": "San Antonio",
+    "country": "US",
+    "state": "FL",
+    "latitude": 28.336109,
+    "longitude": -82.274529
+  },
+  {
+    "city_id": "4726206",
+    "name": "San Antonio",
+    "country": "US",
+    "state": "TX",
+    "latitude": 29.42412,
+    "longitude": -98.493629
+  },
+  {
+    "city_id": "5391710",
+    "name": "San Bernardino",
+    "country": "US",
+    "state": "CA",
+    "latitude": 34.108341,
+    "longitude": -117.289772
+  },
+  {
+    "city_id": "4726311",
+    "name": "San Diego",
+    "country": "US",
+    "state": "TX",
+    "latitude": 27.76391,
+    "longitude": -98.238899
+  },
+  {
+    "city_id": "5391811",
+    "name": "San Diego",
+    "country": "US",
+    "state": "CA",
+    "latitude": 32.715328,
+    "longitude": -117.157257
+  },
+  {
+    "city_id": "5391959",
+    "name": "San Francisco",
+    "country": "US",
+    "state": "CA",
+    "latitude": 37.774929,
+    "longitude": -122.419418
+  },
+  {
+    "city_id": "5392171",
+    "name": "San Jose",
+    "country": "US",
+    "state": "CA",
+    "latitude": 37.33939,
+    "longitude": -121.894958
+  },
+  {
+    "city_id": "4568127",
+    "name": "San Juan",
+    "country": "PR",
+    "state": "",
+    "latitude": 18.46633,
+    "longitude": -66.105721
+  },
+  {
+    "city_id": "3168070",
+    "name": "San Marino",
+    "country": "SM",
+    "state": "",
+    "latitude": 43.933331,
+    "longitude": 12.45
+  },
+  {
+    "city_id": "3583361",
+    "name": "San Salvador",
+    "country": "SV",
+    "state": "",
+    "latitude": 13.68935,
+    "longitude": -89.18718
+  },
+  {
+    "city_id": "71132",
+    "name": "Sanaa",
+    "country": "YE",
+    "state": "",
+    "latitude": 15.26069,
+    "longitude": 44.4249
+  },
+  {
+    "city_id": "5392900",
+    "name": "Santa Ana",
+    "country": "US",
+    "state": "CA",
+    "latitude": 33.745571,
+    "longitude": -117.867828
+  },
+  {
+    "city_id": "5393015",
+    "name": "Santa Clara",
+    "country": "US",
+    "state": "CA",
+    "latitude": 37.354111,
+    "longitude": -121.955238
+  },
+  {
+    "city_id": "5393049",
+    "name": "Santa Clarita",
+    "country": "US",
+    "state": "CA",
+    "latitude": 34.391659,
+    "longitude": -118.542587
+  },
+  {
+    "city_id": "5490263",
+    "name": "Santa Fe",
+    "country": "US",
+    "state": "NM",
+    "latitude": 35.686981,
+    "longitude": -105.937798
+  },
+  {
+    "city_id": "5393287",
+    "name": "Santa Rosa",
+    "country": "US",
+    "state": "CA",
+    "latitude": 38.440472,
+    "longitude": -122.714432
+  },
+  {
+    "city_id": "3871336",
+    "name": "Santiago",
+    "country": "CL",
+    "state": "",
+    "latitude": -33.45694,
+    "longitude": -70.64827
+  },
+  {
+    "city_id": "3492908",
+    "name": "Santo Domingo",
+    "country": "DO",
+    "state": "",
+    "latitude": 18.50012,
+    "longitude": -69.988571
+  },
+  {
+    "city_id": "2410758",
+    "name": "Sao Tome and Principe",
+    "country": "ST",
+    "state": "",
+    "latitude": 1.0,
+    "longitude": 7.0
+  },
+  {
+    "city_id": "2128295",
+    "name": "Sapporo",
+    "country": "JP",
+    "state": "",
+    "latitude": 43.064171,
+    "longitude": 141.346939
+  },
+  {
+    "city_id": "3191281",
+    "name": "Sarajevo",
+    "country": "BA",
+    "state": "",
+    "latitude": 43.84864,
+    "longitude": 18.35644
+  },
+  {
+    "city_id": "4221552",
+    "name": "Savannah",
+    "country": "US",
+    "state": "GA",
+    "latitude": 32.083542,
+    "longitude": -81.099831
+  },
+  {
+    "city_id": "5313457",
+    "name": "Scottsdale",
+    "country": "US",
+    "state": "AZ",
+    "latitude": 33.509209,
+    "longitude": -111.899033
+  },
+  {
+    "city_id": "5809844",
+    "name": "Seattle",
+    "country": "US",
+    "state": "WA",
+    "latitude": 47.606209,
+    "longitude": -122.332069
+  },
+  {
+    "city_id": "1627896",
+    "name": "Semarang",
+    "country": "ID",
+    "state": "",
+    "latitude": -6.9932,
+    "longitude": 110.420303
+  },
+  {
+    "city_id": "2111149",
+    "name": "Sendai",
+    "country": "JP",
+    "state": "",
+    "latitude": 38.26889,
+    "longitude": 140.871933
+  },
+  {
+    "city_id": "1835847",
+    "name": "Seoul",
+    "country": "KR",
+    "state": "",
+    "latitude": 37.583328,
+    "longitude": 127.0
+  },
+  {
+    "city_id": "1796236",
+    "name": "Shanghai",
+    "country": "CN",
+    "state": "",
+    "latitude": 31.222219,
+    "longitude": 121.458061
+  },
+  {
+    "city_id": "1795940",
+    "name": "Shantou",
+    "country": "CN",
+    "state": "",
+    "latitude": 23.368139,
+    "longitude": 116.71479
+  },
+  {
+    "city_id": "1795855",
+    "name": "Shaoxing",
+    "country": "CN",
+    "state": "",
+    "latitude": 30.011021,
+    "longitude": 120.571533
+  },
+  {
+    "city_id": "292672",
+    "name": "Sharjah",
+    "country": "AE",
+    "state": "",
+    "latitude": 25.357309,
+    "longitude": 55.403301
+  },
+  {
+    "city_id": "2034937",
+    "name": "Shenyang",
+    "country": "CN",
+    "state": "",
+    "latitude": 41.792221,
+    "longitude": 123.432777
+  },
+  {
+    "city_id": "1795563",
+    "name": "Shenzhen",
+    "country": "CN",
+    "state": "",
+    "latitude": 22.617661,
+    "longitude": 114.125908
+  },
+  {
+    "city_id": "1795268",
+    "name": "Shijiazhuang",
+    "country": "CN",
+    "state": "",
+    "latitude": 38.575352,
+    "longitude": 112.01593
+  },
+  {
+    "city_id": "115019",
+    "name": "Shiraz",
+    "country": "IR",
+    "state": "",
+    "latitude": 29.6036,
+    "longitude": 52.538799
+  },
+  {
+    "city_id": "1794902",
+    "name": "Shiyan",
+    "country": "CN",
+    "state": "",
+    "latitude": 32.715,
+    "longitude": 120.175278
+  },
+  {
+    "city_id": "1851715",
+    "name": "Shizuoka",
+    "country": "JP",
+    "state": "",
+    "latitude": 35.025219,
+    "longitude": 138.325424
+  },
+  {
+    "city_id": "4341513",
+    "name": "Shreveport",
+    "country": "US",
+    "state": "LA",
+    "latitude": 32.52515,
+    "longitude": -93.750183
+  },
+  {
+    "city_id": "1256525",
+    "name": "Siliguri",
+    "country": "IN",
+    "state": "",
+    "latitude": 26.700001,
+    "longitude": 88.433327
+  },
+  {
+    "city_id": "5396003",
+    "name": "Simi Valley",
+    "country": "US",
+    "state": "CA",
+    "latitude": 34.269451,
+    "longitude": -118.781479
+  },
+  {
+    "city_id": "1880252",
+    "name": "Singapore",
+    "country": "SG",
+    "state": "",
+    "latitude": 1.28967,
+    "longitude": 103.850067
+  },
+  {
+    "city_id": "5231851",
+    "name": "Sioux Falls",
+    "country": "US",
+    "state": "SD",
+    "latitude": 43.549969,
+    "longitude": -96.700333
+  },
+  {
+    "city_id": "785842",
+    "name": "Skopje",
+    "country": "MK",
+    "state": "",
+    "latitude": 42.0,
+    "longitude": 21.433331
+  },
+  {
+    "city_id": "727011",
+    "name": "Sofia",
+    "country": "BG",
+    "state": "",
+    "latitude": 42.69751,
+    "longitude": 23.32415
+  },
+  {
+    "city_id": "5811696",
+    "name": "Spokane",
+    "country": "US",
+    "state": "WA",
+    "latitude": 47.65966,
+    "longitude": -117.429077
+  },
+  {
+    "city_id": "4409896",
+    "name": "Springfield",
+    "country": "US",
+    "state": "MO",
+    "latitude": 37.215328,
+    "longitude": -93.298241
+  },
+  {
+    "city_id": "4951788",
+    "name": "Springfield",
+    "country": "US",
+    "state": "MA",
+    "latitude": 42.101479,
+    "longitude": -72.589813
+  },
+  {
+    "city_id": "4250542",
+    "name": "Springfield",
+    "country": "US",
+    "state": "IL",
+    "latitude": 39.80172,
+    "longitude": -89.643707
+  },
+  {
+    "city_id": "1255634",
+    "name": "Srinagar",
+    "country": "IN",
+    "state": "",
+    "latitude": 34.083328,
+    "longitude": 74.816673
+  },
+  {
+    "city_id": "4407066",
+    "name": "St. Louis",
+    "country": "US",
+    "state": "MO",
+    "latitude": 38.62727,
+    "longitude": -90.197891
+  },
+  {
+    "city_id": "4171563",
+    "name": "St. Petersburg",
+    "country": "US",
+    "state": "FL",
+    "latitude": 27.770861,
+    "longitude": -82.679268
+  },
+  {
+    "city_id": "4843564",
+    "name": "Stamford",
+    "country": "US",
+    "state": "CT",
+    "latitude": 41.053429,
+    "longitude": -73.538727
+  },
+  {
+    "city_id": "5011148",
+    "name": "Sterling Heights",
+    "country": "US",
+    "state": "MI",
+    "latitude": 42.580311,
+    "longitude": -83.030197
+  },
+  {
+    "city_id": "2673722",
+    "name": "Stockholm",
+    "country": "SE",
+    "state": "",
+    "latitude": 59.5,
+    "longitude": 18.0
+  },
+  {
+    "city_id": "5399020",
+    "name": "Stockton",
+    "country": "US",
+    "state": "CA",
+    "latitude": 37.957699,
+    "longitude": -121.290779
+  },
+  {
+    "city_id": "5400075",
+    "name": "Sunnyvale",
+    "country": "US",
+    "state": "CA",
+    "latitude": 37.368832,
+    "longitude": -122.036346
+  },
+  {
+    "city_id": "1793771",
+    "name": "Suqian",
+    "country": "CN",
+    "state": "",
+    "latitude": 33.949169,
+    "longitude": 118.29583
+  },
+  {
+    "city_id": "1625822",
+    "name": "Surabaya",
+    "country": "ID",
+    "state": "",
+    "latitude": -7.24917,
+    "longitude": 112.750832
+  },
+  {
+    "city_id": "5316428",
+    "name": "Surprise",
+    "country": "US",
+    "state": "AZ",
+    "latitude": 33.630589,
+    "longitude": -112.333221
+  },
+  {
+    "city_id": "2198148",
+    "name": "Suva",
+    "country": "FJ",
+    "state": "",
+    "latitude": -18.141609,
+    "longitude": 178.441483
+  },
+  {
+    "city_id": "1793743",
+    "name": "Suzhou",
+    "country": "CN",
+    "state": "",
+    "latitude": 33.636108,
+    "longitude": 116.978889
+  },
+  {
+    "city_id": "2147714",
+    "name": "Sydney",
+    "country": "AU",
+    "state": "",
+    "latitude": -33.867851,
+    "longitude": 151.207321
+  },
+  {
+    "city_id": "5140405",
+    "name": "Syracuse",
+    "country": "US",
+    "state": "NY",
+    "latitude": 43.048119,
+    "longitude": -76.147423
+  },
+  {
+    "city_id": "3448433",
+    "name": "S\u00e3o Paulo",
+    "country": "BR",
+    "state": "",
+    "latitude": -22.0,
+    "longitude": -49.0
+  },
+  {
+    "city_id": "113646",
+    "name": "Tabriz",
+    "country": "IR",
+    "state": "",
+    "latitude": 38.080002,
+    "longitude": 46.291901
+  },
+  {
+    "city_id": "5812944",
+    "name": "Tacoma",
+    "country": "US",
+    "state": "WA",
+    "latitude": 47.25288,
+    "longitude": -122.44429
+  },
+  {
+    "city_id": "1665148",
+    "name": "Taipei",
+    "country": "TW",
+    "state": "",
+    "latitude": 24.94702,
+    "longitude": 121.581749
+  },
+  {
+    "city_id": "1552307",
+    "name": "Taiyuan",
+    "country": "CN",
+    "state": "",
+    "latitude": 30.71093,
+    "longitude": 118.400482
+  },
+  {
+    "city_id": "1793505",
+    "name": "Taizhou",
+    "country": "CN",
+    "state": "",
+    "latitude": 32.493328,
+    "longitude": 119.910629
+  },
+  {
+    "city_id": "4174715",
+    "name": "Tallahassee",
+    "country": "US",
+    "state": "FL",
+    "latitude": 30.438259,
+    "longitude": -84.280731
+  },
+  {
+    "city_id": "588409",
+    "name": "Tallinn",
+    "country": "EE",
+    "state": "",
+    "latitude": 59.436958,
+    "longitude": 24.753531
+  },
+  {
+    "city_id": "4174757",
+    "name": "Tampa",
+    "country": "US",
+    "state": "FL",
+    "latitude": 27.947519,
+    "longitude": -82.458427
+  },
+  {
+    "city_id": "1625084",
+    "name": "Tangerang",
+    "country": "ID",
+    "state": "",
+    "latitude": -6.17806,
+    "longitude": 106.629997
+  },
+  {
+    "city_id": "1793346",
+    "name": "Tangshan",
+    "country": "CN",
+    "state": "",
+    "latitude": 39.633331,
+    "longitude": 118.183327
+  },
+  {
+    "city_id": "1667905",
+    "name": "Taoyuan",
+    "country": "TW",
+    "state": "",
+    "latitude": 24.989599,
+    "longitude": 121.318703
+  },
+  {
+    "city_id": "2110257",
+    "name": "Tarawa",
+    "country": "KI",
+    "state": "",
+    "latitude": 1.3278,
+    "longitude": 172.976959
+  },
+  {
+    "city_id": "1512569",
+    "name": "Tashkent",
+    "country": "UZ",
+    "state": "",
+    "latitude": 41.264648,
+    "longitude": 69.21627
+  },
+  {
+    "city_id": "1624647",
+    "name": "Tasikmalaya",
+    "country": "ID",
+    "state": "",
+    "latitude": -7.3274,
+    "longitude": 108.220703
+  },
+  {
+    "city_id": "611717",
+    "name": "Tbilisi",
+    "country": "GE",
+    "state": "",
+    "latitude": 41.694111,
+    "longitude": 44.833679
+  },
+  {
+    "city_id": "3600949",
+    "name": "Tegucigalpa",
+    "country": "HN",
+    "state": "",
+    "latitude": 14.0818,
+    "longitude": -87.20681
+  },
+  {
+    "city_id": "112931",
+    "name": "Tehran",
+    "country": "IR",
+    "state": "",
+    "latitude": 35.694389,
+    "longitude": 51.421509
+  },
+  {
+    "city_id": "293397",
+    "name": "Tel Aviv",
+    "country": "IL",
+    "state": "",
+    "latitude": 32.080879,
+    "longitude": 34.780571
+  },
+  {
+    "city_id": "5317058",
+    "name": "Tempe",
+    "country": "US",
+    "state": "AZ",
+    "latitude": 33.414768,
+    "longitude": -111.909309
+  },
+  {
+    "city_id": "1793048",
+    "name": "Tengzhou",
+    "country": "CN",
+    "state": "",
+    "latitude": 23.38806,
+    "longitude": 110.891159
+  },
+  {
+    "city_id": "1252416",
+    "name": "Thimphu",
+    "country": "BT",
+    "state": "",
+    "latitude": 27.466089,
+    "longitude": 89.641907
+  },
+  {
+    "city_id": "1254163",
+    "name": "Thiruvananthapuram",
+    "country": "IN",
+    "state": "",
+    "latitude": 8.48333,
+    "longitude": 76.916672
+  },
+  {
+    "city_id": "5441492",
+    "name": "Thornton",
+    "country": "US",
+    "state": "CO",
+    "latitude": 39.868038,
+    "longitude": -104.971916
+  },
+  {
+    "city_id": "5402405",
+    "name": "Thousand Oaks",
+    "country": "US",
+    "state": "CA",
+    "latitude": 34.170559,
+    "longitude": -118.837593
+  },
+  {
+    "city_id": "1254187",
+    "name": "Thrissur",
+    "country": "IN",
+    "state": "",
+    "latitude": 10.51667,
+    "longitude": 76.216667
+  },
+  {
+    "city_id": "1792947",
+    "name": "Tianjin",
+    "country": "CN",
+    "state": "",
+    "latitude": 39.14222,
+    "longitude": 117.176666
+  },
+  {
+    "city_id": "3981609",
+    "name": "Tijuana",
+    "country": "MX",
+    "state": "",
+    "latitude": 32.533329,
+    "longitude": -117.01667
+  },
+  {
+    "city_id": "3183875",
+    "name": "Tirana",
+    "country": "AL",
+    "state": "",
+    "latitude": 41.327499,
+    "longitude": 19.81889
+  },
+  {
+    "city_id": "1254388",
+    "name": "Tiruchirappalli",
+    "country": "IN",
+    "state": "",
+    "latitude": 10.81667,
+    "longitude": 78.683327
+  },
+  {
+    "city_id": "1254348",
+    "name": "Tiruppur",
+    "country": "IN",
+    "state": "",
+    "latitude": 11.1,
+    "longitude": 77.349998
+  },
+  {
+    "city_id": "1850147",
+    "name": "Tokyo",
+    "country": "JP",
+    "state": "",
+    "latitude": 35.689499,
+    "longitude": 139.691711
+  },
+  {
+    "city_id": "5174035",
+    "name": "Toledo",
+    "country": "US",
+    "state": "OH",
+    "latitude": 41.66394,
+    "longitude": -83.555206
+  },
+  {
+    "city_id": "3515302",
+    "name": "Toluca",
+    "country": "MX",
+    "state": "",
+    "latitude": 19.28833,
+    "longitude": -99.667221
+  },
+  {
+    "city_id": "4280539",
+    "name": "Topeka",
+    "country": "US",
+    "state": "KS",
+    "latitude": 39.048328,
+    "longitude": -95.67804
+  },
+  {
+    "city_id": "6167865",
+    "name": "Toronto",
+    "country": "CA",
+    "state": "",
+    "latitude": 43.700111,
+    "longitude": -79.416298
+  },
+  {
+    "city_id": "5403022",
+    "name": "Torrance",
+    "country": "US",
+    "state": "CA",
+    "latitude": 33.83585,
+    "longitude": -118.34063
+  },
+  {
+    "city_id": "5105496",
+    "name": "Trenton",
+    "country": "US",
+    "state": "NJ",
+    "latitude": 40.217049,
+    "longitude": -74.742943
+  },
+  {
+    "city_id": "2210245",
+    "name": "Tripoli",
+    "country": "LY",
+    "state": "",
+    "latitude": 32.889721,
+    "longitude": 13.18472
+  },
+  {
+    "city_id": "204953",
+    "name": "Tshikapa",
+    "country": "CD",
+    "state": "",
+    "latitude": -6.41667,
+    "longitude": 20.799999
+  },
+  {
+    "city_id": "5318313",
+    "name": "Tucson",
+    "country": "US",
+    "state": "AZ",
+    "latitude": 32.221741,
+    "longitude": -110.926483
+  },
+  {
+    "city_id": "4553433",
+    "name": "Tulsa",
+    "country": "US",
+    "state": "OK",
+    "latitude": 36.15398,
+    "longitude": -95.992783
+  },
+  {
+    "city_id": "2464470",
+    "name": "Tunis",
+    "country": "TN",
+    "state": "",
+    "latitude": 36.81897,
+    "longitude": 10.16579
+  },
+  {
+    "city_id": "3165524",
+    "name": "Turin",
+    "country": "IT",
+    "state": "",
+    "latitude": 45.070492,
+    "longitude": 7.68682
+  },
+  {
+    "city_id": "2028461",
+    "name": "Ulaanbaatar Hot",
+    "country": "MN",
+    "state": "",
+    "latitude": 47.916672,
+    "longitude": 106.916672
+  },
+  {
+    "city_id": "2319480",
+    "name": "Uyo",
+    "country": "NG",
+    "state": "",
+    "latitude": 5.03333,
+    "longitude": 7.92657
+  },
+  {
+    "city_id": "1253573",
+    "name": "Vadodara",
+    "country": "IN",
+    "state": "",
+    "latitude": 22.299999,
+    "longitude": 73.199997
+  },
+  {
+    "city_id": "3042030",
+    "name": "Vaduz",
+    "country": "LI",
+    "state": "",
+    "latitude": 47.14151,
+    "longitude": 9.52154
+  },
+  {
+    "city_id": "3625549",
+    "name": "Valencia",
+    "country": "VE",
+    "state": "",
+    "latitude": 10.16202,
+    "longitude": -68.007652
+  },
+  {
+    "city_id": "5405380",
+    "name": "Vallejo",
+    "country": "US",
+    "state": "CA",
+    "latitude": 38.104092,
+    "longitude": -122.256638
+  },
+  {
+    "city_id": "2562305",
+    "name": "Valletta",
+    "country": "MT",
+    "state": "",
+    "latitude": 35.899719,
+    "longitude": 14.51472
+  },
+  {
+    "city_id": "5814616",
+    "name": "Vancouver",
+    "country": "US",
+    "state": "WA",
+    "latitude": 45.638729,
+    "longitude": -122.661491
+  },
+  {
+    "city_id": "1253405",
+    "name": "Varanasi",
+    "country": "IN",
+    "state": "",
+    "latitude": 25.333332,
+    "longitude": 83.0
+  },
+  {
+    "city_id": "6691831",
+    "name": "Vatican City",
+    "country": "VA",
+    "state": "",
+    "latitude": 41.902359,
+    "longitude": 12.45332
+  },
+  {
+    "city_id": "241131",
+    "name": "Victoria",
+    "country": "SC",
+    "state": "",
+    "latitude": -4.61667,
+    "longitude": 55.450001
+  },
+  {
+    "city_id": "5406222",
+    "name": "Victorville",
+    "country": "US",
+    "state": "CA",
+    "latitude": 34.53611,
+    "longitude": -117.291161
+  },
+  {
+    "city_id": "2761369",
+    "name": "Vienna",
+    "country": "AT",
+    "state": "",
+    "latitude": 48.208488,
+    "longitude": 16.37208
+  },
+  {
+    "city_id": "1651944",
+    "name": "Vientiane",
+    "country": "LA",
+    "state": "",
+    "latitude": 17.966669,
+    "longitude": 102.599998
+  },
+  {
+    "city_id": "1253184",
+    "name": "Vijayawada",
+    "country": "IN",
+    "state": "",
+    "latitude": 16.51667,
+    "longitude": 80.616669
+  },
+  {
+    "city_id": "593116",
+    "name": "Vilnius",
+    "country": "LT",
+    "state": "",
+    "latitude": 54.689159,
+    "longitude": 25.2798
+  },
+  {
+    "city_id": "4791259",
+    "name": "Virginia Beach",
+    "country": "US",
+    "state": "VA",
+    "latitude": 36.852928,
+    "longitude": -75.977982
+  },
+  {
+    "city_id": "1253102",
+    "name": "Visakhapatnam",
+    "country": "IN",
+    "state": "",
+    "latitude": 17.690041,
+    "longitude": 83.209251
+  },
+  {
+    "city_id": "5406567",
+    "name": "Visalia",
+    "country": "US",
+    "state": "CA",
+    "latitude": 36.330231,
+    "longitude": -119.292061
+  },
+  {
+    "city_id": "4739526",
+    "name": "Waco",
+    "country": "US",
+    "state": "TX",
+    "latitude": 31.54933,
+    "longitude": -97.146667
+  },
+  {
+    "city_id": "5014051",
+    "name": "Warren",
+    "country": "US",
+    "state": "MI",
+    "latitude": 42.477539,
+    "longitude": -83.027702
+  },
+  {
+    "city_id": "756135",
+    "name": "Warsaw",
+    "country": "PL",
+    "state": "",
+    "latitude": 52.229771,
+    "longitude": 21.01178
+  },
+  {
+    "city_id": "4140963",
+    "name": "Washington, D.C.",
+    "country": "US",
+    "state": "DC",
+    "latitude": 38.895111,
+    "longitude": -77.036369
+  },
+  {
+    "city_id": "1791681",
+    "name": "Weifang",
+    "country": "CN",
+    "state": "",
+    "latitude": 36.709999,
+    "longitude": 119.101936
+  },
+  {
+    "city_id": "1791673",
+    "name": "Weihai",
+    "country": "CN",
+    "state": "",
+    "latitude": 37.501671,
+    "longitude": 122.113609
+  },
+  {
+    "city_id": "2179537",
+    "name": "Wellington",
+    "country": "NZ",
+    "state": "",
+    "latitude": -41.28664,
+    "longitude": 174.775574
+  },
+  {
+    "city_id": "1791464",
+    "name": "Wenling",
+    "country": "CN",
+    "state": "",
+    "latitude": 28.36694,
+    "longitude": 121.360001
+  },
+  {
+    "city_id": "1791388",
+    "name": "Wenzhou",
+    "country": "CN",
+    "state": "",
+    "latitude": 27.99942,
+    "longitude": 120.666817
+  },
+  {
+    "city_id": "4177887",
+    "name": "West Palm Beach",
+    "country": "US",
+    "state": "FL",
+    "latitude": 26.71534,
+    "longitude": -80.053368
+  },
+  {
+    "city_id": "5784607",
+    "name": "West Valley City",
+    "country": "US",
+    "state": "UT",
+    "latitude": 40.691608,
+    "longitude": -112.001053
+  },
+  {
+    "city_id": "4281730",
+    "name": "Wichita",
+    "country": "US",
+    "state": "KS",
+    "latitude": 37.692242,
+    "longitude": -97.33754
+  },
+  {
+    "city_id": "4499379",
+    "name": "Wilmington",
+    "country": "US",
+    "state": "NC",
+    "latitude": 34.225731,
+    "longitude": -77.94471
+  },
+  {
+    "city_id": "3352136",
+    "name": "Windhoek",
+    "country": "NA",
+    "state": "",
+    "latitude": -22.55941,
+    "longitude": 17.083229
+  },
+  {
+    "city_id": "4499612",
+    "name": "Winston-Salem",
+    "country": "US",
+    "state": "NC",
+    "latitude": 36.099861,
+    "longitude": -80.244217
+  },
+  {
+    "city_id": "4956184",
+    "name": "Worcester",
+    "country": "US",
+    "state": "MA",
+    "latitude": 42.262589,
+    "longitude": -71.802292
+  },
+  {
+    "city_id": "1791247",
+    "name": "Wuhan",
+    "country": "CN",
+    "state": "",
+    "latitude": 30.58333,
+    "longitude": 114.26667
+  },
+  {
+    "city_id": "1791236",
+    "name": "Wuhu",
+    "country": "CN",
+    "state": "",
+    "latitude": 31.336571,
+    "longitude": 118.375481
+  },
+  {
+    "city_id": "1790923",
+    "name": "Wuxi",
+    "country": "CN",
+    "state": "",
+    "latitude": 31.568871,
+    "longitude": 120.288567
+  },
+  {
+    "city_id": "1790645",
+    "name": "Xiamen",
+    "country": "CN",
+    "state": "",
+    "latitude": 24.47979,
+    "longitude": 118.081871
+  },
+  {
+    "city_id": "1552266",
+    "name": "Xiangyang",
+    "country": "CN",
+    "state": "",
+    "latitude": 30.895639,
+    "longitude": 118.866783
+  },
+  {
+    "city_id": "1788852",
+    "name": "Xining",
+    "country": "CN",
+    "state": "",
+    "latitude": 36.616669,
+    "longitude": 101.76667
+  },
+  {
+    "city_id": "2279755",
+    "name": "Yamoussoukro",
+    "country": "CI",
+    "state": "",
+    "latitude": 6.82055,
+    "longitude": -5.27674
+  },
+  {
+    "city_id": "1787746",
+    "name": "Yancheng",
+    "country": "CN",
+    "state": "",
+    "latitude": 33.385559,
+    "longitude": 120.125282
+  },
+  {
+    "city_id": "1298824",
+    "name": "Yangon",
+    "country": "MM",
+    "state": "",
+    "latitude": 16.805281,
+    "longitude": 96.156113
+  },
+  {
+    "city_id": "1787227",
+    "name": "Yangzhou",
+    "country": "CN",
+    "state": "",
+    "latitude": 32.397221,
+    "longitude": 119.435829
+  },
+  {
+    "city_id": "1787093",
+    "name": "Yantai",
+    "country": "CN",
+    "state": "",
+    "latitude": 37.533329,
+    "longitude": 121.400002
+  },
+  {
+    "city_id": "2220957",
+    "name": "Yaound\u00e9",
+    "country": "CM",
+    "state": "",
+    "latitude": 3.86667,
+    "longitude": 11.51667
+  },
+  {
+    "city_id": "2110418",
+    "name": "Yaren",
+    "country": "NR",
+    "state": "",
+    "latitude": -0.54724,
+    "longitude": 166.915985
+  },
+  {
+    "city_id": "1486209",
+    "name": "Yekaterinburg",
+    "country": "RU",
+    "state": "",
+    "latitude": 56.857498,
+    "longitude": 60.612499
+  },
+  {
+    "city_id": "616051",
+    "name": "Yerevan",
+    "country": "AM",
+    "state": "",
+    "latitude": 40.183331,
+    "longitude": 44.5
+  },
+  {
+    "city_id": "1786764",
+    "name": "Yichang",
+    "country": "CN",
+    "state": "",
+    "latitude": 30.714439,
+    "longitude": 111.284721
+  },
+  {
+    "city_id": "1786657",
+    "name": "Yinchuan",
+    "country": "CN",
+    "state": "",
+    "latitude": 38.46806,
+    "longitude": 106.273064
+  },
+  {
+    "city_id": "2033370",
+    "name": "Yingkou",
+    "country": "CN",
+    "state": "",
+    "latitude": 40.664822,
+    "longitude": 122.228333
+  },
+  {
+    "city_id": "1814870",
+    "name": "Yiwu",
+    "country": "CN",
+    "state": "",
+    "latitude": 29.31506,
+    "longitude": 120.076759
+  },
+  {
+    "city_id": "5145215",
+    "name": "Yonkers",
+    "country": "US",
+    "state": "NY",
+    "latitude": 40.93121,
+    "longitude": -73.89875
+  },
+  {
+    "city_id": "3186886",
+    "name": "Zagreb",
+    "country": "HR",
+    "state": "",
+    "latitude": 45.814442,
+    "longitude": 15.97798
+  },
+  {
+    "city_id": "2033196",
+    "name": "Zhangjiakou",
+    "country": "CN",
+    "state": "",
+    "latitude": 40.810001,
+    "longitude": 114.87944
+  },
+  {
+    "city_id": "1784990",
+    "name": "Zhanjiang",
+    "country": "CN",
+    "state": "",
+    "latitude": 21.28145,
+    "longitude": 110.342712
+  },
+  {
+    "city_id": "1784658",
+    "name": "Zhengzhou",
+    "country": "CN",
+    "state": "",
+    "latitude": 34.757778,
+    "longitude": 113.648613
+  },
+  {
+    "city_id": "1784320",
+    "name": "Zhongshan",
+    "country": "CN",
+    "state": "",
+    "latitude": 24.533331,
+    "longitude": 111.300003
+  },
+  {
+    "city_id": "1790437",
+    "name": "Zhuhai",
+    "country": "CN",
+    "state": "",
+    "latitude": 22.276939,
+    "longitude": 113.56778
+  },
+  {
+    "city_id": "1783763",
+    "name": "Zhuzhou",
+    "country": "CN",
+    "state": "",
+    "latitude": 27.83333,
+    "longitude": 113.150002
+  },
+  {
+    "city_id": "1785286",
+    "name": "Zibo",
+    "country": "CN",
+    "state": "",
+    "latitude": 36.790562,
+    "longitude": 118.063332
+  },
+  {
+    "city_id": "1783621",
+    "name": "Zunyi",
+    "country": "CN",
+    "state": "",
+    "latitude": 27.68667,
+    "longitude": 106.907219
+  },
+  {
+    "city_id": "1529102",
+    "name": "\u00dcr\u00fcmqi",
+    "country": "CN",
+    "state": "",
+    "latitude": 43.800961,
+    "longitude": 87.600456
+  }
+]
